@@ -16,6 +16,8 @@
 
 }
 @media (min-width: 650px) and (max-width: 850px) {
+
+    #toTop{width: 4%;}
     #contacts .container span{font-size:1.9vw;}
 
     .icons{width:10%;right:-3%;bottom:22%; position:absolute;}
@@ -29,6 +31,8 @@
     #iconc-call{width: 35%; font-size: 30px;}
 }
 @media (min-width: 400px) and (max-width: 650px) {
+
+    #toTop{width: 6%;}
     #contacts .container span{font-size:1.9vw;}
 
     .icons{width:10%;right:-2%;bottom:22%; position:absolute;}
@@ -553,6 +557,11 @@
         display: none;
         width: 100%;
         padding: 1%;
+    }
+}
+@media screen and (max-width:400px) {
+    #toTop {
+        width: 8%;
     }
 }
 

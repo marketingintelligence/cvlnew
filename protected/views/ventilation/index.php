@@ -1,4 +1,7 @@
 <body id="ventilation">
+<div id = "toTop">
+    <img class="topimage" src="/assets_cvl/img/double-up.png">
+</div>
 <section id="l-home" class="v-responsive">
     <div class="sky">
         <div class="clouds_two"></div>
@@ -118,8 +121,8 @@
         </div>
         <div class="header-box">
             <div class="header-address">
-                <span>ул. Улбике акын, 16 </span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp; +7 (7172) 272 888   </span>
+                <!--<span>ул. Улбике акын, 16 </span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp; +7 (7172) 272 888   </span>-->
             </div>
             <hr>
             <div class="menu-box">
@@ -143,6 +146,9 @@
                 </div>
                 <div class="h-menu-item">
                     <a href="#contacts"><span>Контакты</span></a>
+                </div>
+                <div class="h-menu-item">
+                    <a href="tel:+7(7172)272888"><span>+7 (7172) 272 888</span></a>
                 </div>
             </div>
         </div>
@@ -397,7 +403,9 @@
         </div>
         <div class="download-advice">
             <h2>Как обогреть большое помещение без значительных затрат? </h2>
-            <a href="/assets_cvl/img/downl/вентиляция.jpg" download><button class="blick"><img src="/assets_cvl/img/landing/advice.png"> Скачать советы</button></a>
+            <a href="/assets_cvl/img/downl/вентиляция.jpg" download>
+                <button class="blick"><img src="/assets_cvl/img/landing/advice.png"> Скачать советы</button>
+            </a>
         </div>
     </div>
 
@@ -842,4 +850,20 @@
         });
     });
 </script>
+
+<script>
+    $(function() {
+        $(window).scroll(function() {
+            if($(this).scrollTop() != 0) {
+                $('#toTop').fadeIn();
+            } else {
+                $('#toTop').fadeOut();
+            }
+        });
+        $('#toTop').click(function() {
+            $('body,html').animate({scrollTop:0},800);
+        });
+    });
+</script>
+
 </body>

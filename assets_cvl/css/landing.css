@@ -12,7 +12,7 @@ button{position:relative;}
 .header-menu.fixed{background-color:#242935;padding:0;position:fixed;top:0;left:0;-webkit-box-shadow:1px 3px 5px 0px rgba(0,0,0,0.75);-moz-box-shadow:1px 3px 5px 0px rgba(0,0,0,0.75);box-shadow:1px 3px 5px 0px rgba(0,0,0,0.75);z-index:999!important;}
 #ventilation .fixed .menu{height:75%;}
 #ventilation .fixed ul.menu-container{top:92%;}
-.header-box{width:60%;margin:0 auto;}
+.header-box{width:78%;margin:0 auto;}
 .header-box hr{width:80%;margin:0 auto;border:none;height:1px;background-color:#d2792a;}
 .header-address{width:100%;padding-top:1%;margin-bottom:1%;text-align:center;}
 .menu-box{width:100%;padding-top:2%;margin-bottom:2%;display:flex;justify-content:space-between;}
@@ -547,3 +547,25 @@ img.t-t5{width:23%;left:78%;bottom:0;}
 #obj-img.owl-carousel .owl-wrapper-outer { height:100%; }
 #obj-img.owl-carousel .owl-wrapper { height:100%; }
 #obj-img.owl-carousel .owl-item { height:100%; }
+#toTop {
+    width:3%;
+    border:1px solid #ccc;
+    border-radius: 16px;
+    background:#f7f7f7;
+    text-align:center;
+    padding:3px;
+    position:fixed;
+    bottom:4%; /* отступ кнопки от нижнего края страницы*/
+    right:2%;
+    cursor:pointer;
+    display:none;
+    color:#333;
+    font-family:verdana;
+    font-size:11px;
+    z-index: 999999;
+}
+#toTop .topimage{
+    width: 100%;
+    height: 100%;
+}
+

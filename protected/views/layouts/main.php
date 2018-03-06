@@ -8,6 +8,8 @@
             <link rel="stylesheet" href="/assets_cvl/css/style.css">
             <link rel="stylesheet" href="/assets_cvl/css/fansybox.css">
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
             <? if (Yii::app()->controller->id == "site") { ?>
             <link rel="stylesheet" href="/assets_cvl/css/responsive.css">
@@ -33,6 +35,22 @@
                 <link rel="stylesheet" href="/assets_cvl/css/landing.css">
                 <link rel="stylesheet" href="/assets_cvl/css/landing-responsive.css">
             <? } ?>
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+            <script type="text/javascript">
+                $(function() {
+                    $(window).scroll(function() {
+                        if($(this).scrollTop() != 0) {
+                            $('#toTop').fadeIn();
+                        } else {
+                            $('#toTop').fadeOut();
+                        }
+                    });
+                    $('#toTop').click(function() {
+                        $('body,html').animate({scrollTop:0},800);
+                    });
+                });
+            </script>
+
             <script type="text/javascript" src="/assets_cvl/js/mask.js"></script>
             <script>
                 jQuery(function($){
@@ -86,6 +104,7 @@
         <? Yii::app()->params['lan'] = ""; ?>
         <main>
             <?
+
                 echo $content;
             ?>
         </main>

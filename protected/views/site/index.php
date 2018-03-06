@@ -1273,7 +1273,7 @@
     </div>
 
     <div class="city-map2">
-        <iframe src="https://www.google.com/maps/embed/v1/place?q=%D0%B1%D1%86%20%D0%B1%D1%8E%D1%80%D0%BE%20%D1%85%D0%B0%D1%83%D1%81%20%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0&key=AIzaSyCMKOkqjhVlZhXRX3jbbBroI3S_uKZiCvc" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJJb4DNJaGRUIRCJkv3e3vvA0&key=AIzaSyA1N_ZaP16wvVVOp8Sqw2EFAETvLYNZSJo"  width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
         <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9769.415095637363!2d76.85071905358227!3d43.283593647318355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38836e7d16c5cbab%3A0x3d44668fad986d76!2z0JDQu9C80LDRgtGL!5e0!3m2!1sru!2skz!4v1512637970010" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>-->
     </div>
     <div class="mobile-social">
@@ -1287,10 +1287,10 @@
         </div>
     </div>
     <div class="city-map" id="city-map1">
-        <iframe src="https://www.google.com/maps/embed/v1/place?q=%D0%B1%D1%86%20%D0%B1%D1%8E%D1%80%D0%BE%20%D1%85%D0%B0%D1%83%D1%81%20%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0&key=AIzaSyCMKOkqjhVlZhXRX3jbbBroI3S_uKZiCvc" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJJb4DNJaGRUIRCJkv3e3vvA0&key=AIzaSyBxyoGlZSd3b2gYgN88q8ZLAJYjxg9yPu4" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
     <div class="city-map" id="city-map2" style="display: none;">
-        <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJH8oiw5CGRUIRqEP6DOfLmNk&key=AIzaSyCL0GX-92skuGgqIqUzke_mMnfjzveF8qw" allowfullscreen></iframe>
+        <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJH8oiw5CGRUIRqEP6DOfLmNk&key=AIzaSyDSLIYWA60wZfnXUDtc71v6yIgWBcbheqs" allowfullscreen></iframe>
     </div>
     <div class="city-map" id="city-map3" style="display: none;">
         <iframe width="100%" height="100%   " frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=%D0%BF%D1%80%D0%BE%D1%81%D0%BF.%20%D0%9C%D3%99%D0%BD%D0%B3%D1%96%D0%BB%D1%96%D0%BA%20%D0%B5%D0%BB.%2039%2C%20%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%20020000&key=AIzaSyDFSYhkpy2iPNiK9cX84xj-tEDay4ASwgc" allowfullscreen></iframe>

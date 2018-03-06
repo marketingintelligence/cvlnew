@@ -1,4 +1,7 @@
 <body id="ventilation">
+<div id = "toTop">
+    <img class="topimage" src="/assets_cvl/img/double-up.png">
+</div>
 <section id="w-home">
     <div class="header-menu active">
         <div class="mobile-call-box">
@@ -113,8 +116,8 @@
         </div>
         <div class="header-box">
             <div class="header-address">
-                <span>ул. Улбике акын, 16 </span>
-                <span>&nbsp;&nbsp; +7 (7172) 272 888 </span>
+                <!--<span>ул. Улбике акын, 16 </span>
+                <span>&nbsp;&nbsp; +7 (7172) 272 888 </span>-->
             </div>
             <hr>
             <div class="menu-box">
@@ -138,6 +141,9 @@
                 </div>
                 <div class="h-menu-item">
                     <a href="#contacts"><span>Контакты</span></a>
+                </div>
+                <div class="h-menu-item">
+                    <a href="tel: +7 (7172) 272 888"><span>+7 (7172) 272 888</span></a>
                 </div>
             </div>
         </div>
