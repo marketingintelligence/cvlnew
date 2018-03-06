@@ -1,0 +1,1609 @@
+@media screen and (min-width:1450px) {
+    .container {
+        max-width: 1290px;
+    }
+    header .hbottom li {
+        padding: 0.5em 1.4em;
+    }
+    header .hleft li {
+        margin: 0 1.3em;
+    }
+    .fans .title {
+        font-size: 2.5em;
+    }
+    .fans .fcontact {
+        margin-bottom: 1em;
+    }
+    .news-block .premier1 {
+        padding-left: 1.3em;
+    }
+    .news-block .premier3 {
+        padding-right: 1.3em;
+    }
+    .sponsors-block:after {
+        content: '';
+        position: absolute;
+        top:0;
+        left: 0;
+        right:62%;
+        bottom:0;
+        border-bottom: 2px dashed #131313;
+    }
+    .player-video {
+        height: 75vh;
+    }
+}
+@media screen and (min-width:1390px) {
+    .team .coach-linfo {
+        top: 15%;
+    }
+
+    .person-details {
+        top: -0.6em;
+    }
+
+    .player-border2 {
+        width: 11em;
+    }
+
+    .player-border {
+        width: 12em;
+    }
+
+    .admin-border2 {
+        width: 9em;
+    }
+
+    .admin-border {
+        width: 13em;
+    }
+}
+
+@media screen and (max-width:1360px) {
+    header .hbottom li {
+        padding: 0.5em 0.7em;
+    }
+    .news .ntext {
+        font-size: 16px;
+    }
+    .news .ntext2 {
+        font-size: 12px;
+    }
+    .news-block .premier1 {
+        padding-left: 1em;
+    }
+    .news-block .premier3 {
+        padding-right: 1em;
+    }
+    .online-store .side-nav li {
+        font-size: 13px;
+    }
+    .online-store .mrg-right {
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width:1310px) {
+    #logo {
+        width: 15%;
+    }
+    header input {
+        width: 20em;
+    }
+    .stadium {
+        font-size: 2.2em;
+    }
+    .fans .shop-title {
+        width: 30%;
+    }
+    .team .coach-linfo {
+        top: 4%;
+    }
+    .person-details {
+        top: -3.2em;
+    }
+    .pd-border2 {
+        height: 2.7em;
+        width: 6em;
+    }
+    .pd-border {
+        height: 4em;
+        width: 7em;
+    }
+    .player-change, .player-info {
+        font-size: 14px;
+    }
+    .player-details {
+        bottom: 10%;
+        padding: 2em 2em 0 2em;
+        width: 26em;
+    }
+    .player-details-in {
+        padding: 0;
+        width: 100%;
+    }
+    .player-border2 {
+        width: 10em;
+    }
+    .player-details {
+        right: -5%;
+    }
+    .admin-details {
+        width: 23em;
+    }
+    .admin-info {
+        font-size: 18px;
+    }
+    .online-store .side-nav li {
+        font-size: 11px;
+    }
+
+}
+@media screen and (max-width:1240px) {
+    body {
+        font-size: 14px;
+    }
+    .container {
+        width: 95%;
+    }
+    header .hleft {
+        width: 73%;
+    }
+    header .hright ul {
+        width: 32%;
+    }
+    header input {
+        width: 16em;
+    }
+    .date {
+        font-size: 3.3em;
+    }
+    .stadium {
+        font-size: 2em;
+    }
+    .time {
+        font-size: 7em;
+    }
+    .pg-block {
+        margin-bottom: 0;
+    }
+    .news-block .ntext{
+        font-size: 13px;
+    }
+    .news-block .min-news,.news-block .ntext2 {
+        font-size: 12px;
+    }
+    .nright .tplayer {
+        font-size: 1.9em;
+    }
+    .news-block .desc-day {
+        width: 45%;
+    }
+    .nright .nr-bottom-left {
+        width: 35%;
+    }
+    footer .fright {
+        height: 7.4em;
+    }
+    .fans .sheet {
+        padding-right: 4em;
+    }
+    .fans aside#nav {
+        font-size: 13px;
+    }
+    .person-info {
+        font-size: 16px;
+    }
+    .person-details-in {
+        position: relative;
+        padding: 2em 2em 0 2em;
+        color: #FFFFFF;
+        background: rgba(0, 0, 0, 0.5);
+        font-size: 13px;
+        height: 18em;
+        width: 100%;
+    }
+    .pd-border {
+        height: 8em;
+        width: 10em;
+    }
+    .pd-border2 {
+        height: 6em;
+        width: 11em;
+    }
+    .list-coaches, .coach-dolj {
+        font-size: 13px;
+    }
+    .player-details {
+        right: 0;
+    }
+    .player-border {
+        width: 6em;
+    }
+    .player-details {
+        width: 30em;
+    }
+    .player-details-in {
+        font-size: 12px;
+    }
+    .admin-details {
+        width: 26em;
+    }
+    .admin-details-in {
+        padding: 2em 2em 0 2em!important;
+    }
+    .list-players-in li, .list-admins {
+        font-size: 13px;
+    }
+    .online-store .os-mrg {
+        margin-right: 0;
+    }
+    .news .desc-day {
+        width: 30%;
+    }
+
+}
+
+@media screen and (max-width:1160px) {
+    .admin-details {
+        width: 24em;
+    }
+    .product-detail .pdi-product-name {
+        font-size: 20px;
+        margin: 30px 0;
+    }
+    .product-detail .pdi-product-sq select {
+        width: 7em;
+    }
+    .pdi-desc-text {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width:1120px) {
+    header {
+        font-size: 12.5px;
+    }
+    .container {
+        width: 95%;
+    }
+    header .hleft {
+        width: 73%;
+    }
+    header .hright ul {
+        width: 32%;
+    }
+    header input {
+        width: 16em;
+    }
+    .m-item-l {
+        width: 20%;
+    }
+    .m-item-r {
+        width: 24%;
+    }
+    .date {
+        font-size: 3.1em;
+    }
+    .stadium {
+        font-size: 1.8em;
+    }
+    .time {
+        font-size: 6em;
+    }
+    .news-block .nr-top {
+        font-size: 13px;
+    }
+    footer .item {
+        padding-right: 0.5em;
+    }
+    .fans .sheet {
+        padding-right: 3em;
+        font-size: 13px;
+    }
+    .fans aside#nav, .fans .fbtm {
+        font-size: 12px;
+    }
+    .pd-border2 {
+        height: 5em;
+        width: 9em;
+    }
+    .pd-border {
+        height: 6.2em;
+        width: 8em;
+    }
+    .player-change, .player-info {
+        font-size: 12px;
+    }
+    .player-border {
+        width: 4em;
+    }
+    .player-details {
+        width: 27em;
+    }
+    .player-details-in {
+        font-size: 11px;
+    }
+    .btn-store img {
+        width: 75%;
+    }
+
+}
+
+@media screen and (max-width:1080px) {
+    .admin-border {
+        height: 7em;
+        width: 7em;
+    }
+    .admin-details {
+        width: 23em;
+    }
+    .pd-border {
+        height: 6.2em;
+        width: 6em;
+    }
+    .pd-border2 {
+        height: 5em;
+        width: 7em;
+    }
+}
+@media screen and (max-width:992px) {
+    .pc {
+        display: none!important;
+    }
+    .mobile {
+        display: block;
+    }
+    .container {
+        width: 100%;
+    }
+    #logo {
+        top: 55px;
+    }
+    .nright .tplayer {
+        font-size: 1.2em!important;
+        margin: 0.5em 0;
+        margin-top: 3em;
+    }
+    .nright .scorer {
+        font-size: 3.3em!important;
+    }
+    section.our-news-block, section.academy-block {
+        height: 20em;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+    .bg-score .score, .bg-score .ontextbtm {
+        margin-top: 0;
+        padding-bottom: 1em;
+    }
+    .bg-score .on-titleb{
+        color: #ffffff;
+        width: 100%;
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: none;
+        padding-bottom: 0.5em;
+    }
+    .bg-score .score-text {
+        padding: 0 0.2em;
+    }
+    .news-block {
+        width: 95%;
+        margin-top: 2em;
+    }
+    .pg-block, .sponsors-block  {
+        width: 90%;
+    }
+    .title-block {
+        font-size: 2.4em!important;
+    }
+    .pg-block .change-cmd, .news-block .nr-top {
+        height: 35px;
+    }
+    .pg-block .name  {
+        padding: 0 1.5em;
+        padding-right: 2.5em;
+    }
+    .pg-block .name3  {
+        padding: 0 1.5em;
+        padding-left: 2.5em;
+    }
+    #kaz {
+        width: 45%;
+    }
+    .date {
+        margin-top: 0;
+        font-size: 2.8em;
+    }
+    .time {
+        margin-top: 0;
+        font-size: 5em;
+    }
+    .carousel-container .text-life, .carousel-container .video-life {
+        width: 5em!important;
+    }
+    .carousel-container .club {
+        font-size: 1.5em!important;
+    }
+    .carousel-container .vl-text {
+        width: 8em!important;
+    }
+    .carousel-container .tl-text {
+        width: 9em!important;
+    }
+    .carousel-container .vs {
+        font-size: 2.5em!important;
+        margin-top: 15px;
+        padding: 0 15px;
+    }
+    .carousel-container .item-in {
+        width: 45% !important;
+    }
+    section.academy-block {
+        margin-bottom: 0;
+    }
+    .bg-score .atext {
+        margin-top: 1em;
+        margin-bottom: 0.5em;
+    }
+    .sponsors-block .stitle {
+        font-size: 2.2em;
+    }
+    .our-news-block .score-text, .bg-score .score-text {
+        padding: 0;
+    }
+    .our-news-block .on-titleb {
+        text-align: center;
+    }
+    .our-news-block .score, .bg-score .score {
+        margin-top: 1em;
+    }
+    .carousel-container .buy-tickets {
+        bottom: -35% !important;
+    }
+    .news-block .list-title {
+        top: 20% !important;
+        left: 2% !important;
+    }
+    .news-block .ntext2, .news-block .nr-top {
+        font-size: 11px;
+    }
+    .news-block .ntext {
+        font-size: 13px;
+    }
+    .news-block .nmiddle, .news-block .min-news, .news-block .nr-middle  {
+        font-size: 12px;
+    }
+    .academy-block .ontextbtm {
+        margin-top: 0;
+    }
+    .academy-block .atext, .bg-score .atext {
+        margin-top: 1em;
+        margin-bottom: 0;
+    }
+    .put {
+        position: relative!important;
+    }
+    .put .f-l{
+        width: 100%;
+        text-align: center;
+    }
+    .put .f-r {
+        width: 100%;
+        text-align: center;
+        background: #181818;
+    }
+    .sponsors-block:after {
+        right: 0!important;
+    }
+    section.news, section.fans {
+        width: 90%;
+        padding-top: 4em;
+    }
+    .news .b-img {
+        width: 300px;
+        top: -70%;
+    }
+    .news .b-text {
+        font-size: 6em;
+    }
+    .news .b-text2 {
+        font-size: 2em;
+        margin-top: -20px;
+    }
+    .news .news-list {
+        width: 49%;
+    }
+    .news aside#lnav, .fans aside#nav {
+        font-size: 12px;
+    }
+    .news .b-middle {
+        padding: 0.5em 0 3em 0.5em;
+    }
+    .news .eye-img {
+        filter: invert(0);
+    }
+    .news .left {
+        width: 55%;
+    }
+    .news .desc-day {
+        width: 42%;
+        font-size: 12px;
+    }
+    .news .right {
+        width: 45%;
+    }
+    .fans .sheet {
+        font-size: 11px;
+        padding: 0.5em 0em;
+    }
+    .fans .sheet img {
+        width: 75%;
+    }
+    .fans .fclub {
+        font-size: 1.8em;
+    }
+    .fans .fvs {
+        font-size: 2.5em;
+        padding: 0 20px;
+        padding-top: 10px;
+    }
+    .fans .fbtm {
+        bottom: -10%;
+    }
+    .fans .fbtm .f-l {
+        width: 55%;
+        text-align: left;
+    }
+    .fans .fitem-l {
+        left: -10%;
+    }
+    .fans .fitem-r {
+        right: -10%;
+    }
+    .fans .fmatch img {
+        width: 45%;
+    }
+    .fans .shop-title {
+        width: 37%;
+    }
+    .news aside#lnav, .news .content, .fans aside#nav, .fans .content {
+        margin-bottom: 0.5em;
+    }
+    .pc-team {
+        display: none;
+    }
+    .pd-change {
+        margin: 10px 0;
+        display: block;
+    }
+    .change-coach {
+        width: 100%;
+    }
+    .team .player-linfo {
+        position: relative;
+    }
+    .player-name {
+        font-size: 2em;
+        text-transform: uppercase;
+    }
+    .player-post {
+        font-size: 1.6em;
+        color: #ffb500;
+        text-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+        margin-bottom: 0;
+        text-transform: uppercase;
+    }
+    .coach-item li, .player-item li, .admin-item li{
+        display: block!important;
+    }
+    .player-details {
+        position: relative;
+        width: 100%;
+        padding: 0;
+        margin-top: 1em;
+        text-align: center;
+        text-align-last: inherit;
+    }
+    .player-details-in {
+        height:auto;
+        padding: 10px;
+        text-align: left;
+    }
+    .player-change {
+        margin: 0;
+        text-align: center;
+    }
+    .player-inst {
+        margin-top: 1em;
+        margin-left: 0;
+    }
+    .team .tright {
+        display: none;
+    }
+    .team .tleft {
+        width: 100%;
+        height: auto!important;
+    }
+
+    .list-coaches, .list-players, .list-admins {
+        margin-top: 1em;
+    }
+    .mobile-team {
+        display: block;
+    }
+    .mob-team-news {
+        display: block;
+    }
+    .mob-team-news .eye-img {
+        filter: invert(1);
+    }
+    .pc-team-news {
+        display: none;
+    }
+    .pgtop {
+        text-align: center;
+        margin-bottom: 1em;
+    }
+    .pg-block .change-cmd {
+        position: relative;
+    }
+    #blij-match {
+        text-align: center;
+    }
+    .player {
+        position: relative;
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        transform: translateX(-50%);
+        top:0;
+    }
+
+    .team .player-linfo, .player-details {
+        opacity: 1;
+    }
+    section.online-store {
+        margin-top: 4em;
+    }
+    .pdi-desc-text {
+        font-size: 12px;
+    }
+    .online-store .cart-btn {
+        width: 65%;
+    }
+    .product-detail .pdi-product-sq {
+        padding: 1em 0.5em;
+    }
+    .mmiddle img {
+        vertical-align: bottom;
+    }
+    footer li {
+        margin: 15px 0.8em;
+    }
+}
+@media screen and (max-width:900px) {
+    .pc-news {
+        display: none;
+    }
+    .mobile-news {
+        display: block;
+    }
+    .news-block .listtitle {
+        font-size: 14px;
+    }
+    .news-block .count {
+        padding-right: 0;
+    }
+    .eye-img {
+        filter: invert(1)
+    }
+    .fans .rgba {
+        width: 47%;
+    }
+    .online-store aside#nav, .online-store .store-block {
+        width: 100%;
+    }
+    .online-store .os-title, .store-nav-text, .online-store .nav-act-b, .cart-text, .online-store .filter-left  {
+        display: none!important;
+    }
+    .online-store aside#nav {
+        text-align: right;
+        padding-right: 1em;
+    }
+    .online-store .side-nav li {
+        display: inline-block;
+        width: auto;
+        text-align: center;
+        z-index:10;
+        margin: -1px 0!important;
+    }
+    section.online-store {
+        margin-top: 0;
+    }
+    .online-store .my-cart {
+        float: none;
+        background: transparent;
+        padding: 2px 10px;
+        cursor: pointer;
+        position: absolute;
+        top: 4px;
+        left: 14%;
+        z-index: 100;
+    }
+    .online-store .filtration-block {
+        border: 0;
+        box-shadow: none;
+        padding: 10px 0;
+    }
+    .online-store .filter-block-right , .online-store .filter-right{
+        width: 100%
+    }
+    .online-store .os-top {
+        margin-bottom: 0;
+    }
+    .online-store .block-store {
+        margin-top: 0;
+        width: 95%;
+        margin:  0 auto;
+    }
+    .product-detail-item {
+        width: 100%;
+    }
+    .online-store .product {
+        width: 32%;
+    }
+    .product-detail .pdi-btn {
+        position: relative;
+    }
+    .xzoom-thumbs {
+        border-bottom: 4px solid #181818 !important;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    .carousel-pc {
+        display: none!important;
+    }
+    .carousel-mobile {
+        display: block;
+    }
+    .carousel-container .item-in {
+        width: 60%!important;
+    }
+    .news-block .nleft{
+        width: 100%;
+        margin-bottom: 1em;
+    }
+    .news-block .nright {
+        width: 100%;
+    }
+    .nright .nr-bottom-left {
+        width: 20%;
+        left: 9%;
+    }
+    .nright .tplayer {
+        display: inline-block;
+        text-align: left;
+    }
+    .nright .nr-bottom-right {
+        text-align: center;
+    }
+    .news-block .premier1 {
+        padding-left: 7em;
+    }
+    .news-block .premier3 {
+        padding-right: 8em;
+    }
+    .news-block {
+        margin-top: -2em;
+    }
+    .news aside#lnav, .news .content, .fans aside#nav, .fans .content {
+        width: 100%;
+    }
+    .news .b-mrg {
+        display: none;
+    }
+    .nav-act-b , .fans .adv{
+        display: none;
+    }
+    section.news, section.fans {
+        padding-top: 2em;
+    }
+    .news .side-lnav li, .fans .side-nav li {
+        display: inline-block;
+        margin: 0.5em 0;
+        width: 25%;
+        float: left;
+        text-align: center;
+    }
+    .news .ntext {
+        font-size: 13px;
+        margin-top:0; ;
+    }
+    .fans .fcontact {
+        padding: 1em 0;
+        margin-top: 1em;
+    }
+    .fans .btn-fan2 {
+        width: 33% !important;
+    }
+    .fans .btn-fan3 {
+        width: 100% !important;
+        text-align: center;
+    }
+    .rm {
+        display: none;
+    }
+    .fans .sheet-pad {
+        padding-top: 5px;
+        padding-right: 0;
+    }
+    .fans .text {
+        padding: 1em;
+    }
+    .fans .sheet img {
+        width: 65%;
+    }
+    .fans .info-ticket {
+        margin-top: 0.5em;
+    }
+    .fans .rgba {
+        width: 100%;
+        margin: 1.2em 0;
+    }
+    .fans .buy-ticket img {
+        width: 45%;
+    }
+    .fans .dostar {
+        width: 100%!important;
+    }
+    .fans .astadium {
+        width: 80%;
+    }
+    .coach-name {
+        font-size: 2em;
+        text-transform: uppercase;
+    }
+    .person-info {
+        padding: 20px 5px;
+        font-size: 14px;
+    }
+    .change-coach {
+        width: 100%;
+    }
+    .coach-post {
+        font-size: 2em;
+        margin-bottom: 0;
+    }
+}
+
+
+@media screen and (max-width:700px) {
+    body {
+        font-size: 12px;
+    }
+    .title-block {
+        font-size: 2em!important;
+    }
+
+    .our-news-block .on-titleb {
+        color: #ffffff;
+        width: 120%;
+        position: absolute;
+        top: 0;
+        left: -18%;
+    }
+    .our-news-block .score-text, .bg-score .score-text {
+        font-size: 3em;
+    }
+    .m-item-name {
+        font-size: 1.5em;
+        color: #131313;
+    }
+    .time {
+        font-size: 4em;
+    }
+    .stadium {
+        font-size: 1.5em;
+    }
+    .date {
+        font-size: 2.2em;
+    }
+    .match {
+        top: 45%;
+    }
+    #kaz {
+        width: 40%;
+    }
+    .carousel-container {
+        margin-top: 2em!important;
+    }
+    .news .desc-day {
+        width: 50%;
+    }
+    .fans .fmatch img {
+        width: 35%!important;
+    }
+    .carousel-container .item-in {
+        width: 65%!important;
+    }
+    .online-store .slider-title {
+        font-size: 25px!important;
+        text-transform: uppercase;
+    }
+    .online-store .slider-text li {
+        font-size: 13px;
+    }
+
+}
+@media screen and (max-width:600px) {
+    .carousel-container .buy-tickets {
+        bottom: -44% !important;
+        font-size: 11px;
+    }
+    .carousel-container .item {
+        margin-bottom: 3em!important;
+    }
+    .customNavigation .btn-prev, .customNavigation .btn-next {
+        top: 40% !important;
+    }
+    .ch {
+        padding-top: 1em!important;
+    }
+    .news-block .premier1 {
+        padding-left: 4em;
+    }
+    .news-block .premier3 {
+        padding-right: 4em;
+    }
+    .news-block {
+        margin-top: 0;
+    }
+    .pc-company {
+        display: none;
+    }
+    .mob-company {
+        display: block;
+    }
+    footer i {
+        font-size: 2em!important;
+    }
+    .news .left {
+        width: 100%;
+    }
+    .news .right {
+        width: 100%;
+    }
+    .news .news-list {
+        width: 100%;
+    }
+    #search-area {
+        display: block;
+        width:100%;
+    }
+    .news select {
+        width: 100%;
+        margin-left: 0;
+    }
+    .news .nmiddle {
+        display: none;
+    }
+    .news .desc-img {
+        /*height: 230px;*/
+    }
+    .fans .fstadium {
+        width: 100%;
+    }
+    .fans .shop-title {
+        width: 45%;
+    }
+    .fans .dostar .f-l {
+        text-align: center;
+    }
+    .fans .simg {
+        width: 100%;
+    }
+    .fans .sb-right {
+        width: 100%;
+        margin-top: 1em;
+    }
+    #fadein-btn {
+        display: inline-block;
+    }
+    .fans .put-text {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    .fadeout {
+        display: none;
+    }
+    .mstadium {
+        display: none;
+    }
+    #mob-stadium {
+        height:60vh;
+        -webkit-transition: 1s;
+        -moz-transition: 1s;
+        -ms-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+    }
+    .team .mrg {
+        margin-top: 2em;
+    }
+    .mob-news .mn-left {
+        height:90px;
+    }
+    .player-info {
+        padding: 1em 1.5em;
+    }
+    .player-info li {
+        font-size: 11px!important;
+    }
+    .online-store .product {
+        width: 49%;
+    }
+    .cart-block {
+        width: auto;
+    }
+    .online-store .cart-btn {
+        width: 80%;
+    }
+    .pdi-rgba{
+        background:  transparent !important;
+    }
+    .product-detail .pdi-product-sq {
+        padding: 0;
+    }
+    .product-detail .pdi-item-left, .product-detail .pdi-item-right {
+        width: 100%;
+        float: none;
+        background: rgba(0, 0, 0, 0.6);
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .pdi-product-size .f-l, .pdi-product-size .f-r, .pdi-product-quantity .f-l, .pdi-product-quantity .f-r {
+        float: none;
+        margin: 5px 0;
+    }
+    .product-detail .pdi-product-name {
+        font-size: 14px;
+        margin: 10px 0;
+    }
+    .product-detail .pdi-product-size, .product-detail .pdi-product-quantity {
+        width: 50%;
+        float: left;
+        text-align: center;
+    }
+    .product-detail {
+        width: 95%;
+        margin: 0 auto;
+    }
+    .online-store .slider-title {
+        font-size: 20px!important;
+    }
+}
+
+@media screen and (max-width:520px) {
+    section.our-news-block, section.academy-block {
+        height: 16em;
+    }
+    .bg-score .score-text {
+        font-size: 3em;
+    }
+    .pg-block .pgtop {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .pg-block .change-cmd {
+        float: none;
+    }
+    .carousel-container .buy-btn {
+        padding: 1.5em;
+    }
+    .carousel-container .text-life{
+        width: 2em!important;
+        left:95% !important;
+    }
+    .carousel-container .video-life {
+        width: 2em!important;
+        right: 95% !important;
+    }
+    .lcircle-in-buy, .rcircle-in-buy {
+        height: 6px!important;
+        width: 6px!important;
+    }
+    .carousel-container .item-bottom {
+        padding: 4em 0em 0 1em!important;
+    }
+    .carousel-container .item-hr {
+        height: 2.9em!important;
+    }
+    .m-item-r {
+        width: 23%;
+        right: -10%;
+    }
+    .m-item-l {
+        width: 25%;
+        left: -10%;
+    }
+    .m-item-l img {
+        width: 65% !important;
+    }
+    .m-item-r img {
+        width:70% !important;
+    }
+    .stadium {
+        font-size: 1.2em;
+        width: 100%;
+    }
+    .time {
+        font-size: 3em;
+    }
+    .date {
+        font-size: 1.7em;
+    }
+    .customNavigation .btn-prev img, .customNavigation .btn-next img{
+        width: 80% !important;
+    }
+    .customNavigation .btn-prev, .customNavigation .btn-next {
+        top: 39% !important;
+    }
+    .carousel-container .circle {
+        height: 1em;
+        width: 1em;
+    }
+    .carousel-container .buy-btn {
+        padding: 1em!important;
+        width: 90% !important;
+    }
+    .carousel-container .item-in {
+        width: 90%!important;
+    }
+    .pg-block .pgtop .align-top {
+        display: block;
+    }
+    .change-cmd {
+        display: inline-block!important;
+    }
+    .news-block {
+        width: 95% !important;
+    }
+    .nright .nr-bottom-left {
+        width: 85px;
+        left: 12%;
+    }
+    .news-block .premier1 {
+        padding-left: 2.5em;
+    }
+    .news-block .premier3 {
+        padding-right: 2.5em;
+    }
+    section.news, section.fans {
+        width: 95%;
+    }
+    .fans .fitem-l {
+        left: -25%;
+    }
+    .fans .fitem-r {
+        right: -20%;
+    }
+    .fans .buy-btn {
+        margin-top: 2em;
+    }
+    .fans .content {
+        overflow: hidden;
+    }
+    .fans .ditem {
+        width: 100%;
+        text-align: left;
+    }
+    .person-info {
+        font-size: 12px;
+    }
+
+    .mobile-team .cleft {
+        width: 50%;
+        position: absolute;
+        bottom: 0;
+        text-align: center;
+    }
+    .change-coach {
+        width: 160px;
+    }
+    .mobile-team .pleft {
+        position: absolute;
+
+        bottom: 0;
+    }
+    .mobile-team .pleft img{
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        transform: translateX(-50%);
+    }
+    .mobile-team li {
+        display: inline-block;
+        margin: 0;
+        position: relative;
+    }
+    .mobile-team .rgba-mob-nav {
+        background: rgba(0, 0, 0, 0.5);
+        padding: 1em 0;
+        color: #c7c9c6;
+        text-transform: uppercase;
+        width: 145px;
+    }
+    .xzoom-thumbs {
+        width: 35% !important;
+        font-size: 11px;
+    }
+    .ximg {
+        width: 65% !important;
+    }
+    .xtt-count-block {
+        height: 30px!important;
+        width: 30px!important;
+    }
+    .online-store .product-count-circle {
+        height: 35px;
+        width: 35px;
+    }
+    .xzoom-thumbs-top {
+        margin-bottom: 5px;
+        padding-bottom: 5px;
+    }
+    .online-store  .os-slider {
+        height: 20em;
+    }
+    .cart-block .lp-left2 {
+        width: 100%;
+    }
+    .cart-block .lp-right2 {
+        width: 100%;
+        text-align: left;
+    }
+    .cart-block .lp-right2 li{
+        display: inline-block;
+        margin-top: 10px;
+    }
+    .cart-block .lp-right2 ul {
+        display: block;
+    }
+    .cart-block .product-cost {
+        float: right;
+        margin-top: 0!important;
+    }
+    .cart-block .lp-right select {
+        width: 6.2em;
+    }
+    .cart-block .product-input {
+        width: 100%;
+    }
+    .cart-block .contact-text {
+        display: none;
+    }
+    .cart-block .contact-input {
+        width: 100%;
+        float: none;
+    }
+    .contact-tel::-webkit-input-placeholder {
+        color: #757575;
+    }
+    #close-cart-block {
+        width: 8%;
+    }
+    .cart-block .cbb-btm ul {
+        width: 100%;
+    }
+    .cart-block .cbb-product-name {
+        font-size: 12px;
+    }
+    .cart-block .cbb-price, .cart-block .final-price {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:442px) {
+    .carousel-container .buy-tickets {
+        bottom: -52% !important;
+        font-size: 11px;
+    }
+    .m-item-name {
+        font-size: 1.2em;
+        color: #131313;
+    }
+    .pg-block {
+        width: 100%;
+    }
+    .carousel-container .item-bottom {
+        font-size: 10px!important;
+    }
+    .carousel-container .hr-pg-slider {
+        bottom: 6.8em!important;
+    }
+    .carousel-container .hr-ng-slider {
+        bottom: 5.2em!important;
+    }
+    .carousel-container .buy-tickets {
+        font-size: 9px;
+    }
+    .carousel-container .club {
+        font-size: 1.2em!important;
+    }
+    .news-block .premier1 {
+        padding-left: 2em;
+    }
+    .news-block .premier3 {
+        padding-right: 2em;
+    }
+    .news aside#lnav, .fans aside#nav {
+        font-size: 11px;
+    }
+    .fans .shop-title {
+        width: 50%;
+    }
+    .change-coach {
+        width: 100%;
+    }
+    .mobile-team .pright {
+        width: 52%;
+    }
+    .mobile-team .pleft {
+        width: 45%;
+    }
+    .player-info {
+        padding: 1em 0.5em;
+        width: 100%;
+    }
+    .online-store .slider-title {
+        font-size: 16px!important;
+    }
+    .online-store .product-top {
+        padding: 1.5em;
+    }
+    section.our-news-block:after {
+        left: 37%;
+    }
+}
+
+@media screen and (max-width:390px) {
+    header .mob-middle {
+        padding: 0 4px;
+    }
+    .news-block .premier1 {
+        padding-left: 1.5em;
+    }
+    .news-block .premier3 {
+        padding-right: 1.5em;
+    }
+    table.league td, table.league th {
+        padding: 6px;
+    }
+    .nright .nr-bottom-left {
+        left: 2%;
+    }
+    .news .side-lnav li{
+        font-size: 10px;
+    }
+    .fans .side-nav li {
+        font-size: 9px;
+    }
+    .fans .fdate {
+        margin-top: 6px!important;
+    }
+    .fans .fitem-l {
+        left: -35%;
+    }
+    .fans .fitem-r {
+        right: -30%;
+    }
+    .fans .fmatch img {
+        width: 30%!important;
+    }
+    .fans .shop-title {
+        width: 60%;
+    }
+    .player-info li {
+        font-size: 11px!important;
+    }
+    .online-store .filter-block-right {
+        font-size: 10px;
+    }
+    .online-store  .os-slider {
+        height: 18em;
+    }
+    .online-store .slider-title {
+        font-size: 14px!important;
+    }
+    .online-store .slider-title li {
+        font-size: 12px!important;
+    }
+    .online-store .bg-active {
+        padding: 0.2em 0.5em;
+    }
+    .cart-block {
+        font-size: 12px;
+    }
+    .cart-block .product-cost {
+        font-size: 30px;
+    }
+    .btn-store img {
+        width: 60%;
+    }
+    .online-store .my-cart {
+        top: -2px;
+    }
+
+
+}
+@media screen and (max-width:362px) {
+    .news-block .nr-top {
+        font-size: 9px;
+    }
+    table #table-top {
+        height: 3em;
+    }
+    .fans aside#nav, .fans .fbtm {
+        font-size: 10px;
+    }
+    .player-info li {
+        font-size: 10px!important;
+    }
+    header  .mob-middle {
+        padding: 0 1px;
+    }
+    .online-store .filter-block-right {
+        font-size: 9.5px;
+    }
+    .online-store .cart-btn {
+        width: 90%;
+    }
+    .online-store .slider-title {
+        font-size: 12px!important;
+    }
+    .online-store .slider-text li {
+        font-size: 11px;
+    }
+    .online-store .bg-active {
+        padding: 0.2em 0.3em;
+    }
+    .p-continue, .p-send, .p-issue {
+        padding: 10px;
+    }
+}
+
+
+@media screen and (max-width:320px) {
+    header  .mob-middle {
+        padding: 0;
+    }
+    .customNavigation .btn-prev, .customNavigation .btn-next {
+        top: 35% !important;
+    }
+    .carousel-container .vs {
+        padding: 0 7px;
+    }
+    .fans .fitem-l {
+        left: -45%;
+    }
+    .fans .fitem-r {
+        right: -40%;
+    }
+    .fans .side-nav li {
+        font-size: 8px;
+    }
+    .fans .shop-title {
+        width: 70%;
+    }
+    #mob-stadium {
+        height:50vh;
+    }
+    .mobile-team li {
+        font-size: 12px;
+    }
+    .xzoom-thumbs {
+        font-size: 10px;
+    }
+    .online-store .filter-block-right {
+        font-size: 9px;
+    }
+    .online-store .product-name {
+        font-size: 11px;
+    }
+    .online-store  .os-slider {
+        height: 16em;
+    }
+    .online-store .bg-active {
+        padding: 0.2em;
+    }
+
+}
+@media screen and (max-width:305px) {
+    .mob-work {
+        display: inline-block;
+        padding: 0 2px;
+    }
+    .news-block .nr-top {
+        font-size: 8px;
+    }
+    .news-block .premier1 {
+        padding-left: 1em;
+    }
+    .news-block .premier3 {
+        padding-right: 1em;
+    }
+    .carousel-container .vs {
+        padding: 0 4px;
+    }
+    .fans .buy-btn {
+        margin-top: 3em;
+    }
+    .online-store .filter-block-right {
+        font-size: 8px;
+    }
+    .online-store .cart-btn {
+        width: 100%;
+    }
+    .online-store .slider-title {
+        font-size: 11px!important;
+    }
+    .online-store .slider-text li {
+        font-size: 10px;
+    }
+    .online-store .bg-active {
+        padding: 0.2em 0;
+    }
+    .online-store .my-cart {
+        left: 10%;
+    }
+    .xzoom-thumbs {
+        font-size: 9px;
+    }
+    header .mob-middle img{
+        width: 70%;
+    }
+    .mob-work {
+        padding: 0;
+    }
+    header  .mob-middle i {
+        font-size: 14px;
+        margin-right: 5px;
+    }
+}
+
+
+@media screen and (max-width:270px) {
+    .pg-block .name {
+        padding: 0 1em;
+        padding-right: 2em;
+    }
+    .pg-block .name3 {
+        padding: 0 1em;
+        padding-left: 2em;
+    }
+    .pg-block .name2 {
+        padding: 0 1.2em;
+    }
+    .carousel-container .buy-tickets {
+        font-size: 7px;
+    }
+    .online-store .bg-active {
+        padding: 0.1em 0;
+    }
+    .online-store .my-cart {
+        left: 5%;
+    }
+}
+
