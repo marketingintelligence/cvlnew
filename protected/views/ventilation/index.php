@@ -792,7 +792,8 @@
         </div>
 
         <div class="city-map2">
-            <iframe src="https://www.google.com/maps/embed/v1/place?q=%D0%B1%D1%86%20%D0%B1%D1%8E%D1%80%D0%BE%20%D1%85%D0%B0%D1%83%D1%81%20%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0&key=AIzaSyCMKOkqjhVlZhXRX3jbbBroI3S_uKZiCvc" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <!--<iframe src="https://www.google.com/maps/embed/v1/place?q=%D0%B1%D1%86%20%D0%B1%D1%8E%D1%80%D0%BE%20%D1%85%D0%B0%D1%83%D1%81%20%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0&key=AIzaSyCMKOkqjhVlZhXRX3jbbBroI3S_uKZiCvc" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+            <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJJb4DNJaGRUIRCJkv3e3vvA0&key=AIzaSyDuexhHqse0bUVMMu2mC_LBUPwv8ews1Gg" allowfullscreen></iframe>
         </div>
         <div class="mobile-social">
             <div class="social">
@@ -805,7 +806,8 @@
             </div>
         </div>
         <div class="city-map" id="city-map1">
-            <iframe src="https://www.google.com/maps/embed/v1/place?q=%D0%B1%D1%86%20%D0%B1%D1%8E%D1%80%D0%BE%20%D1%85%D0%B0%D1%83%D1%81%20%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0&key=AIzaSyCMKOkqjhVlZhXRX3jbbBroI3S_uKZiCvc" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJJb4DNJaGRUIRCJkv3e3vvA0&key=AIzaSyDuexhHqse0bUVMMu2mC_LBUPwv8ews1Gg" allowfullscreen></iframe>
+            <!--<iframe src="https://www.google.com/maps/embed/v1/place?q=%D0%B1%D1%86%20%D0%B1%D1%8E%D1%80%D0%BE%20%D1%85%D0%B0%D1%83%D1%81%20%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0&key=AIzaSyCMKOkqjhVlZhXRX3jbbBroI3S_uKZiCvc" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>-->
         </div>
         <div class="city-map" id="city-map2" style="display: none;">
             <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJH8oiw5CGRUIRqEP6DOfLmNk&key=AIzaSyCL0GX-92skuGgqIqUzke_mMnfjzveF8qw" allowfullscreen></iframe>
