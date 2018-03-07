@@ -1,7 +1,4 @@
 <body id="ventilation">
-<div id = "toTop">
-    <img class="topimage" src="/assets_cvl/img/double-up.png">
-</div>
 <section id="l-home" class="v-responsive">
     <div class="sky">
         <div class="clouds_two"></div>

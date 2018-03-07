@@ -101,10 +101,16 @@
 			
         </head>
     <body>
+
+    <section id="home">
+        <? if (Yii::app()->controller->id != "site") {  ?>
+            <?$this->renderPartial('/layouts/modal');?>
+        <? } ?>
+    </section>
+
         <? Yii::app()->params['lan'] = ""; ?>
         <main>
             <?
-
                 echo $content;
             ?>
         </main>

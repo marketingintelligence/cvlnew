@@ -1,7 +1,4 @@
 <body id="ventilation">
-<div id = "toTop">
-    <img class="topimage" src="/assets_cvl/img/double-up.png">
-</div>
 <section id="c-home">
     <div class="header-menu active">
         <div class="mobile-call-box">
