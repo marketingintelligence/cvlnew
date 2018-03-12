@@ -425,32 +425,28 @@
                     <div class="l-slide-item">
                         <div class="l-slide-up">
                             <?/*=$page[5]->full_bigtexteditor*/?>
+                            <img src="/assets_cvl/img/partnerslogo/VTS.png">
+                            <img src="/assets_cvl/img/partnerslogo/trane_logo.jpg">
                             <img src="/assets_cvl/img/partnerslogo/compipe.png">
                             <img src="/assets_cvl/img/partnerslogo/kan.png">
                             <img src="/assets_cvl/img/partnerslogo/sauter.png">
-                            <img src="/assets_cvl/img/partnerslogo/danfoss.png">
-                            <img src="/assets_cvl/img/partnerslogo/viessmann.png">
                         </div>
                         <div class="l-slide-down">
                             <?/*=$page[4]->full_bigtexteditor*/?>
+                            <img src="/assets_cvl/img/partnerslogo/danfoss.png">
                             <img src="/assets_cvl/img/partnerslogo/imi.jpg">
                             <img src="/assets_cvl/img/partnerslogo/WILO.png">
                             <img src="/assets_cvl/img/partnerslogo/grundfos.png">
-                            <img src="/assets_cvl/img/partnerslogo/VTS.png">
                         </div>
                     </div>
                     <div class="l-slide-item">
                         <div class="l-slide-up">
                             <?/*=$page[3]->full_bigtexteditor*/?>
-                            <img src="/assets_cvl/img/partnerslogo/trane_logo.jpg">
                             <img src="/assets_cvl/img/partnerslogo/comisa.png">
-                            <img src="/assets_cvl/img/partnerslogo/Isoterm-logo.gif">
                             <img src="/assets_cvl/img/partnerslogo/comtek.png">
                         </div>
                         <div class="l-slide-down">
                             <?/*=$page[2]->full_bigtexteditor*/?>
-                            <img src="/assets_cvl/img/partnerslogo/sondex.png">
-                            <img src="/assets_cvl/img/partnerslogo/logobuderus.png">
                             <img src="/assets_cvl/img/partnerslogo/evan.jpg">
                             <img src="/assets_cvl/img/partnerslogo/k-flex.gif">
                         </div>
@@ -458,17 +454,13 @@
                     <div class="l-slide-item">
                         <div class="l-slide-up">
                             <?/*=$page[1]->full_bigtexteditor*/?>
-                            <img src="/assets_cvl/img/partnerslogo/nibe.png">
                             <img src="/assets_cvl/img/partnerslogo/Giacomini.jpg">
                             <img src="/assets_cvl/img/partnerslogo/also.png">
-                            <img src="/assets_cvl/img/partnerslogo/Buran%20Boiler.jpg">
                         </div>
                         <div class="l-slide-down">
                             <?/*=$page[0]->full_bigtexteditor*/?>
-                            <img src="/assets_cvl/img/partnerslogo/cronos.png">
                             <img src="/assets_cvl/img/partnerslogo/thermaflex.png">
                             <img src="/assets_cvl/img/partnerslogo/HLV1.png">
-                            <img src="/assets_cvl/img/partnerslogo/jaspi.png">
                         </div>
                     </div>
                     <div class="l-slide-item">
