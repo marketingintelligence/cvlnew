@@ -1937,7 +1937,6 @@ hr.blue-hr {
     cursor: pointer;
 }
 
-/*
 .slider-container-items span {
     text-align: center;
     width: 100%;
@@ -1947,9 +1946,8 @@ hr.blue-hr {
     left: 0;
     z-index: 1;
 }
-*/
 
-.slider-container-items span {
+/*.slider-container-items span {
     text-align: center;
     width: 48%;
     position: absolute;
@@ -1957,7 +1955,7 @@ hr.blue-hr {
     font-weight: bold;
     left: 25%;
     z-index: 1;
-}
+}*/
 
 .slider-container-items img {
     width: 100%;
