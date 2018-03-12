@@ -1445,7 +1445,7 @@
         <div class="f-city">
             <ul>
                 <li>г. Астана</li>
-                <li>ул.Улбике акын 16</li>
+                <li>ул. Улбике акын 16</li>
             </ul>
         </div>
         <div class="f-number">
