@@ -4,7 +4,6 @@
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
-      <change beforePath="$PROJECT_DIR$/protected/views/site/index.php" afterPath="$PROJECT_DIR$/protected/views/site/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +25,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.8425926">
+    <splitter split-orientation="horizontal" split-proportion="0.34690103">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
@@ -43,11 +42,10 @@
             <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="217">
-                  <caret line="1456" column="34" lean-forward="true" selection-start-line="1456" selection-start-column="34" selection-end-line="1456" selection-end-column="34" />
+                  <caret line="1456" column="34" lean-forward="false" selection-start-line="1456" selection-start-column="34" selection-end-line="1456" selection-end-column="34" />
                   <folding>
                     <marker date="1520854700396" expanded="true" signature="42653:42787" ph="..." />
                     <marker date="1520854700396" expanded="true" signature="42889:43022" ph="..." />
-                    <marker date="1520854700396" expanded="false" signature="67635:67652" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -140,8 +138,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+                <state relative-caret-position="272">
+                  <caret line="530" column="38" lean-forward="false" selection-start-line="530" selection-start-column="4" selection-end-line="530" selection-end-column="40" />
                   <folding />
                 </state>
               </provider>
@@ -296,12 +294,12 @@
         <option value="$PROJECT_DIR$/assets_cvl/css/landing-responsive.css" />
         <option value="$PROJECT_DIR$/protected/views/layouts/modal.php" />
         <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
-        <option value="$PROJECT_DIR$/assets_cvl/css/style.css" />
         <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
         <option value="$PROJECT_DIR$/protected/views/heating/index.php" />
         <option value="$PROJECT_DIR$/protected/views/watersupply/index.php" />
         <option value="$PROJECT_DIR$/protected/views/ventilation/index.php" />
         <option value="$PROJECT_DIR$/protected/views/site/index.php" />
+        <option value="$PROJECT_DIR$/assets_cvl/css/style.css" />
       </list>
     </option>
   </component>
@@ -494,7 +492,7 @@
       <workItem from="1520401632858" duration="1833000" />
       <workItem from="1520412426103" duration="965000" />
       <workItem from="1520417704314" duration="1231000" />
-      <workItem from="1520852935082" duration="1694000" />
+      <workItem from="1520852935082" duration="1834000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1512741649752</created>
@@ -664,11 +662,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520854576165</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="контакты нижние">
+      <created>1520854755881</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1520854755881</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="438006000" />
+    <option name="totallyTimeSpent" value="438146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -768,7 +773,8 @@
     <MESSAGE value="меню" />
     <MESSAGE value="меню обнов" />
     <MESSAGE value="контакты" />
-    <option name="LAST_COMMIT_MESSAGE" value="контакты" />
+    <MESSAGE value="контакты нижние" />
+    <option name="LAST_COMMIT_MESSAGE" value="контакты нижние" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1080,16 +1086,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+        <state relative-caret-position="1802">
+          <caret line="106" column="51" lean-forward="false" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -1129,12 +1127,19 @@
     <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
-          <caret line="1456" column="34" lean-forward="true" selection-start-line="1456" selection-start-column="34" selection-end-line="1456" selection-end-column="34" />
+          <caret line="1456" column="34" lean-forward="false" selection-start-line="1456" selection-start-column="34" selection-end-line="1456" selection-end-column="34" />
           <folding>
             <marker date="1520854700396" expanded="true" signature="42653:42787" ph="..." />
             <marker date="1520854700396" expanded="true" signature="42889:43022" ph="..." />
-            <marker date="1520854700396" expanded="false" signature="67635:67652" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="530" column="38" lean-forward="false" selection-start-line="530" selection-start-column="4" selection-end-line="530" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>

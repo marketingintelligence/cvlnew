@@ -528,7 +528,7 @@ span.no-margin {
     padding-top: 0.5em;
     text-align: left;
     width: 35%;
-    border-right: 1px solid #ffffff;
+    /*border-right: 1px solid #ffffff;*/
     display: flex;
     justify-content: space-between;
 }
