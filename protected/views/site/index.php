@@ -1334,6 +1334,18 @@
                 <span>Главная</span>
             </li>
         </a>
+        <a href="heating">
+            <li class="orange">
+                <img src="/assets_cvl/img/menu/4.png">
+                <span>Отопление</span>
+            </li>
+        </a>
+        <a href="watersupply">
+            <li class="blue">
+                <img src="/assets_cvl/img/menu/3.png">
+                <span>Водоснабжение</span>
+            </li>
+        </a>
         <a href="ventilation">
             <li class="yellow">
                 <img src="/assets_cvl/img/menu/1.png">
@@ -1344,18 +1356,6 @@
             <li class="green">
                 <img src="/assets_cvl/img/menu/2.png">
                 <span>Холодоснабжение</span>
-            </li>
-        </a>
-        <a href="watersupply">
-            <li class="blue">
-                <img src="/assets_cvl/img/menu/3.png">
-                <span>Водоснабжение</span>
-            </li>
-        </a>
-        <a href="heating">
-            <li class="orange">
-                <img src="/assets_cvl/img/menu/4.png">
-                <span>Отопление</span>
             </li>
         </a>
         <span class="page-scroll">
