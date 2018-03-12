@@ -38,7 +38,7 @@ input.phone{background-image:url("../img/landing/input2.png");background-size:10
 input.name2{background-image:url("../img/landing/input3.png");background-size:100% 100%;}
 input.phone2{background-image:url("../img/landing/input3.png");background-size:100% 100%;}
 .l-title{width:88%;padding-top:13%;padding-bottom:0.1%;margin-left:1%;position:relative;}
-.l-title h1{font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;font-size:5vw;text-transform:uppercase;color:#ed7a1d;font-weight:bold;text-shadow:0px 0px 2px #000000;margin:0;}
+.l-title h1{font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;font-size:5vw;color:#ed7a1d;font-weight:bold;text-shadow:0px 0px 2px #000000;margin:0;}
 .l-title h2{color:#ffffff;font-size:5vw;text-transform:none;font-weight:normal;text-shadow:0px 0px 1px #FFFCFC;}
 .l-title p{font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;color:#ffffff;font-size:2vw;text-shadow:0px 0px 1px #ccc;font-weight:bold;font-style:italic;margin-top:0%;}
 .b-title{width:36%;position:absolute;bottom:-18%;text-align:center;left:32%;}
