@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/protected/views/ventilation/index.php" afterPath="$PROJECT_DIR$/protected/views/ventilation/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -474,7 +473,7 @@
       <workItem from="1520401632858" duration="1833000" />
       <workItem from="1520412426103" duration="965000" />
       <workItem from="1520417704314" duration="1231000" />
-      <workItem from="1520852935082" duration="9014000" />
+      <workItem from="1520852935082" duration="9024000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1512741649752</created>
@@ -756,11 +755,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520862997351</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="text">
+      <created>1520863153452</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1520863153452</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="445326000" />
+    <option name="totallyTimeSpent" value="445336000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
