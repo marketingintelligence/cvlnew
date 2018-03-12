@@ -791,7 +791,7 @@
                     </div>
                 </div>
             </div>
-            <div class="city-info">
+            <!--<div class="city-info">
                 <div class="city-name orange">
                     <h2>Г. ПАВЛОДАР </h2>
                 </div>
@@ -823,7 +823,7 @@
                     </div>
                 </div>
 
-            </div>
+            </div>-->
         </div>
 
         <div class="container mobile-contact">
@@ -930,7 +930,7 @@
                     </div>
                 </div>
             </div>
-            <div class="city-info">
+            <!--<div class="city-info">
 
                 <div class="city-name margin-top green" data-id="3">
                     <h2>Г. Павлодар</h2>
@@ -961,7 +961,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
             <div class="city-map2">
                 <iframe src="https://www.google.com/maps/embed/v1/place?q=%D0%B1%D1%86%20%D0%B1%D1%8E%D1%80%D0%BE%20%D1%85%D0%B0%D1%83%D1%81%20%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0&key=AIzaSyCMKOkqjhVlZhXRX3jbbBroI3S_uKZiCvc" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>

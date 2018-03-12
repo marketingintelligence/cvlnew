@@ -758,7 +758,7 @@
                     </div>
                 </div>
             </div>
-            <div class="city-info">
+            <!--<div class="city-info">
                 <div class="city-name orange">
                     <h2>Г. ПАВЛОДАР </h2>
                 </div>
@@ -789,8 +789,7 @@
                         </div>
                     </div>
                 </div>
-
-            </div>
+            </div>-->
         </div>
 
         <div class="container mobile-contact">
@@ -897,7 +896,7 @@
                     </div>
                 </div>
             </div>
-            <div class="city-info">
+            <!--<div class="city-info">
 
                 <div class="city-name margin-top green" data-id="3">
                     <h2>Г. Павлодар</h2>
@@ -928,7 +927,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
 
         <div class="city-map2">
