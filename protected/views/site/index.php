@@ -1454,7 +1454,7 @@
             </ul>
         </div>
     </div>
-    <div class="footer-items">
+    <!--<div class="footer-items">
         <div class="f-city">
             <ul>
                 <li>г. Павлодар</li>
@@ -1466,7 +1466,7 @@
                 <li style="padding-top:10px;">+7 (7182) 650 151</li>
             </ul>
         </div>
-    </div>
+    </div>-->
     <div class="footer-items">
         <div class="call">
             <div class="call-items-1"></div>
