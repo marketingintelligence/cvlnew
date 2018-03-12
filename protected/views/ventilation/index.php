@@ -24,12 +24,24 @@
             </div>
             <ul class="menu-container">
                 <a href="/">
-					<a href="/">
                     <li class="blue">
                         <img src="/assets_cvl/img/menu/home.png">
                         <span>Главная</span>
                     </li>
                 </a>
+                <a href="heating">
+                    <li class="orange">
+                        <img src="/assets_cvl/img/menu/4.png">
+                        <span>Отопление</span>
+                    </li>
+                </a>
+                <a href="watersupply">
+                    <li class="blue">
+                        <img src="/assets_cvl/img/menu/3.png">
+                        <span>Водоснабжение</span>
+                    </li>
+                </a>
+                <a href="ventilation">
                     <li class="yellow">
                         <img src="/assets_cvl/img/menu/1.png">
                         <span>Вентиляция</span>
@@ -41,22 +53,10 @@
                         <span>Холодоснабжение</span>
                     </li>
                 </a>
-                <a href="watersupply">
-                    <li class="blue">
-                        <img src="/assets_cvl/img/menu/3.png">
-                        <span>Водоснабжение</span>
-                    </li>
-                </a>
-                <a href="heating">
-                    <li class="orange">
-                        <img src="/assets_cvl/img/menu/4.png">
-                        <span>Отопление</span>
-                    </li>
-                </a>
                 <a href="/#about">
                     <li class="yellow">
                         <img src="/assets_cvl/img/menu/5.png">
-                        <span>О нас</span>
+                        <span>О компании</span>
                     </li>
                 </a>
                 <a href="/#services">
@@ -74,7 +74,7 @@
                 <a href="/#portfolio">
                     <li class="orange">
                         <img src="/assets_cvl/img/menu/7.png">
-                        <span>Достижения</span>
+                        <span>Портфолио</span>
                     </li>
                 </a>
                 <a href="/#certificate">

@@ -4,7 +4,10 @@
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
-      <change beforePath="$PROJECT_DIR$/protected/views/site/index.php" afterPath="$PROJECT_DIR$/protected/views/site/index.php" />
+      <change beforePath="$PROJECT_DIR$/protected/views/coldsupply/index.php" afterPath="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
+      <change beforePath="$PROJECT_DIR$/protected/views/heating/index.php" afterPath="$PROJECT_DIR$/protected/views/heating/index.php" />
+      <change beforePath="$PROJECT_DIR$/protected/views/ventilation/index.php" afterPath="$PROJECT_DIR$/protected/views/ventilation/index.php" />
+      <change beforePath="$PROJECT_DIR$/protected/views/watersupply/index.php" afterPath="$PROJECT_DIR$/protected/views/watersupply/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,13 +29,23 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49586016">
+    <splitter split-orientation="horizontal" split-proportion="0.8425926">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="493">
+                  <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="557">
+                <state relative-caret-position="761">
                   <caret line="1359" column="12" lean-forward="false" selection-start-line="1359" selection-start-column="12" selection-end-line="1359" selection-end-column="12" />
                   <folding>
                     <marker date="1520853106378" expanded="true" signature="42653:42787" ph="..." />
@@ -42,21 +55,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1802">
-                  <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
+            <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+                <state relative-caret-position="-901">
+                  <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
@@ -65,18 +68,28 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+                <state relative-caret-position="1717">
+                  <caret line="109" column="20" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="109" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
+            <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+                <state relative-caret-position="1632">
+                  <caret line="114" column="20" lean-forward="false" selection-start-line="114" selection-start-column="20" selection-end-line="114" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="109" column="20" lean-forward="false" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
@@ -129,8 +142,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="209" column="18" lean-forward="false" selection-start-line="209" selection-start-column="18" selection-end-line="209" selection-end-column="18" />
+                <state relative-caret-position="255">
+                  <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -283,14 +296,14 @@
         <option value="$PROJECT_DIR$/protected/views/layouts/m_header.php" />
         <option value="$PROJECT_DIR$/assets_cvl/css/landing.css" />
         <option value="$PROJECT_DIR$/assets_cvl/css/landing-responsive.css" />
-        <option value="$PROJECT_DIR$/protected/views/ventilation/index.php" />
-        <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
-        <option value="$PROJECT_DIR$/protected/views/watersupply/index.php" />
-        <option value="$PROJECT_DIR$/protected/views/heating/index.php" />
         <option value="$PROJECT_DIR$/protected/views/layouts/modal.php" />
         <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
         <option value="$PROJECT_DIR$/assets_cvl/css/style.css" />
         <option value="$PROJECT_DIR$/protected/views/site/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/heating/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/watersupply/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/ventilation/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
       </list>
     </option>
   </component>
@@ -388,6 +401,13 @@
               <item name="backupcvl.zu" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="protected" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ventilation" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="backupcvl.zu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backupcvl.zu" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="protected" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="watersupply" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -476,7 +496,7 @@
       <workItem from="1520401632858" duration="1833000" />
       <workItem from="1520412426103" duration="965000" />
       <workItem from="1520417704314" duration="1231000" />
-      <workItem from="1520852935082" duration="171000" />
+      <workItem from="1520852935082" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1512741649752</created>
@@ -625,11 +645,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520417585549</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="меню">
+      <created>1520853142903</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1520853142903</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="436483000" />
+    <option name="totallyTimeSpent" value="436996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,7 +753,9 @@
     <MESSAGE value="Исправление" />
     <MESSAGE value="правки" />
     <MESSAGE value="шрифт главная" />
-    <option name="LAST_COMMIT_MESSAGE" value="шрифт главная" />
+    <MESSAGE value="меню" />
+    <MESSAGE value="меню обнов" />
+    <option name="LAST_COMMIT_MESSAGE" value="меню обнов" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1020,49 +1049,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="456" column="28" lean-forward="false" selection-start-line="456" selection-start-column="27" selection-end-line="456" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/modal.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -1075,22 +1065,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="209" column="18" lean-forward="false" selection-start-line="209" selection-start-column="18" selection-end-line="209" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
+        <state relative-caret-position="761">
           <caret line="1359" column="12" lean-forward="false" selection-start-line="1359" selection-start-column="12" selection-end-line="1359" selection-end-column="12" />
           <folding>
             <marker date="1520853106378" expanded="true" signature="42653:42787" ph="..." />
             <marker date="1520853106378" expanded="true" signature="42889:43022" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="109" column="20" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="109" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="114" column="20" lean-forward="false" selection-start-line="114" selection-start-column="20" selection-end-line="114" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="109" column="20" lean-forward="false" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
