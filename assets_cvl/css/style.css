@@ -1981,7 +1981,7 @@ hr.blue-hr {
 }
 
 #portfolio .navigation {
-    width: 47%;
+    width: 39%;
     height: 12%;
     left: 51%;
     top: -113%;
@@ -2013,6 +2013,7 @@ hr.blue-hr {
 
 .p-img {
     height: 100%;
+    width: 80%;
 }
 
 #portfolio .border {
