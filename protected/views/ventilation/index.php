@@ -144,11 +144,9 @@
                 <div class="h-menu-item">
                     <a href="#contacts"><span>Контакты</span></a>
                 </div>
-            </div>
-        </div>
-        <div class="menu-click">
-            <div class="menu-number">
-                <a href="tel: +7 (7172) 272 888"><span>+7 (7172) 272 888</span></a>
+                <div class="h-menu-item">
+                    <a href="tel:+7(7172)272888"><span>+7 (7172) 272 888</span></a>
+                </div>
             </div>
         </div>
     </div>
