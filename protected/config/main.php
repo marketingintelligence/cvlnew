@@ -97,8 +97,8 @@ return array(
 		'db'          => array(
           'connectionString' => 'mysql:host=localhost;dbname=cvl_db',
 			'emulatePrepare' => true,
-			'username' => 'cvl_us',
-			'password' => 'Maint112233',
+			'username' => 'root',
+			'password' => '',
 			
             'charset'            => 'utf8',
             'enableProfiling'    => true,

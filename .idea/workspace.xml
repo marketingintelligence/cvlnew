@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets_cvl/css/style.css" afterPath="$PROJECT_DIR$/assets_cvl/css/style.css" />
       <change beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
       <change beforePath="$PROJECT_DIR$/protected/views/ventilation/index.php" afterPath="$PROJECT_DIR$/protected/views/ventilation/index.php" />
-      <change beforePath="$PROJECT_DIR$/protected/views/watersupply/index.php" afterPath="$PROJECT_DIR$/protected/views/watersupply/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +27,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.78630894">
+    <splitter split-orientation="horizontal" split-proportion="0.5670675">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
@@ -67,7 +67,7 @@
             <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="353">
-                  <caret line="142" column="87" lean-forward="true" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="87" />
+                  <caret line="142" column="87" lean-forward="false" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="87" />
                   <folding />
                 </state>
               </provider>
@@ -76,8 +76,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="148" column="10" lean-forward="true" selection-start-line="148" selection-start-column="10" selection-end-line="148" selection-end-column="10" />
+                <state relative-caret-position="306">
+                  <caret line="153" column="10" lean-forward="true" selection-start-line="153" selection-start-column="10" selection-end-line="153" selection-end-column="10" />
                   <folding />
                 </state>
               </provider>
@@ -140,8 +140,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="2006" column="17" lean-forward="false" selection-start-line="2006" selection-start-column="17" selection-end-line="2006" selection-end-column="17" />
+                <state relative-caret-position="493">
+                  <caret line="2836" column="0" lean-forward="false" selection-start-line="2836" selection-start-column="0" selection-end-line="2836" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -299,9 +299,9 @@
         <option value="$PROJECT_DIR$/protected/views/heating/index.php" />
         <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
         <option value="$PROJECT_DIR$/protected/views/site/index.php" />
-        <option value="$PROJECT_DIR$/assets_cvl/css/style.css" />
         <option value="$PROJECT_DIR$/protected/views/watersupply/index.php" />
         <option value="$PROJECT_DIR$/protected/views/ventilation/index.php" />
+        <option value="$PROJECT_DIR$/assets_cvl/css/style.css" />
       </list>
     </option>
   </component>
@@ -494,7 +494,7 @@
       <workItem from="1520401632858" duration="1833000" />
       <workItem from="1520412426103" duration="965000" />
       <workItem from="1520417704314" duration="1231000" />
-      <workItem from="1520852935082" duration="5071000" />
+      <workItem from="1520852935082" duration="5837000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1512741649752</created>
@@ -720,11 +720,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520857954671</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="лэндинг changes">
+      <created>1520858979579</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1520858979579</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="441383000" />
+    <option name="totallyTimeSpent" value="442149000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -830,7 +837,8 @@
     <MESSAGE value="текст" />
     <MESSAGE value="пробел" />
     <MESSAGE value="слайдер" />
-    <option name="LAST_COMMIT_MESSAGE" value="слайдер" />
+    <MESSAGE value="лэндинг changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="лэндинг changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1175,26 +1183,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
+    <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="2006" column="17" lean-forward="false" selection-start-line="2006" selection-start-column="17" selection-end-line="2006" selection-end-column="17" />
+        <state relative-caret-position="353">
+          <caret line="142" column="87" lean-forward="false" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
+    <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="142" column="87" lean-forward="true" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="87" />
+        <state relative-caret-position="493">
+          <caret line="2836" column="0" lean-forward="false" selection-start-line="2836" selection-start-column="0" selection-end-line="2836" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="148" column="10" lean-forward="true" selection-start-line="148" selection-start-column="10" selection-end-line="148" selection-end-column="10" />
+        <state relative-caret-position="306">
+          <caret line="153" column="10" lean-forward="true" selection-start-line="153" selection-start-column="10" selection-end-line="153" selection-end-column="10" />
           <folding />
         </state>
       </provider>
