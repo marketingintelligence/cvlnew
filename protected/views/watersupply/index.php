@@ -846,7 +846,7 @@
                         </div>
                     </div>
 
-                    <p class="margin-top">Офис</p>
+                    <p >Офис</p>
                     <hr>
                     <div class="date">
                         <div class="date-item">
