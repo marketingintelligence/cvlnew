@@ -188,6 +188,12 @@
             <!--<h1>Альтернатива кондиционерам</h1>-->
             <h1>КПД до 90%</h1>
             <p>Воздушные завесы Wing и тепловентиляторы Volcano из Польши. Минимум шума и 100% экологичность. Экономьте на обогреве домов, офисов и предприятий!</p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
         </div>
 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

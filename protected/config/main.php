@@ -94,12 +94,12 @@ return array(
             'connectionID'=>'db'
         ),
 
-		'db'          => array(
-          'connectionString' => 'mysql:host=localhost;dbname=cvl_db',
-			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => '',
-			
+        'db'          => array(
+            'connectionString' => 'mysql:host=localhost;dbname=cvl_db',
+            'emulatePrepare' => true,
+            'username' => 'cvl_us',
+            'password' => 'Maint112233',
+
             'charset'            => 'utf8',
             'enableProfiling'    => true,
             'enableParamLogging' => true

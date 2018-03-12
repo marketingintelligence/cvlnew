@@ -75,8 +75,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="183">
-                  <caret line="188" column="31" lean-forward="true" selection-start-line="188" selection-start-column="31" selection-end-line="188" selection-end-column="31" />
+                <state relative-caret-position="302">
+                  <caret line="195" column="16" lean-forward="false" selection-start-line="195" selection-start-column="16" selection-end-line="195" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -475,7 +475,7 @@
       <workItem from="1520401632858" duration="1833000" />
       <workItem from="1520412426103" duration="965000" />
       <workItem from="1520417704314" duration="1231000" />
-      <workItem from="1520852935082" duration="8078000" />
+      <workItem from="1520852935082" duration="8212000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1512741649752</created>
@@ -722,11 +722,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520861444020</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="текст">
+      <created>1520862223202</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1520862223202</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="444390000" />
+    <option name="totallyTimeSpent" value="444524000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -829,13 +836,13 @@
     <MESSAGE value="нижние блоки" />
     <MESSAGE value="Commit" />
     <MESSAGE value="text" />
-    <MESSAGE value="текст" />
     <MESSAGE value="пробел" />
     <MESSAGE value="слайдер" />
     <MESSAGE value="лэндинг changes" />
     <MESSAGE value="menu number" />
     <MESSAGE value="text number" />
-    <option name="LAST_COMMIT_MESSAGE" value="text number" />
+    <MESSAGE value="текст" />
+    <option name="LAST_COMMIT_MESSAGE" value="текст" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1199,8 +1206,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="188" column="31" lean-forward="true" selection-start-line="188" selection-start-column="31" selection-end-line="188" selection-end-column="31" />
+        <state relative-caret-position="302">
+          <caret line="195" column="16" lean-forward="false" selection-start-line="195" selection-start-column="16" selection-end-line="195" selection-end-column="16" />
           <folding />
         </state>
       </provider>
