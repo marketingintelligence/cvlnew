@@ -1881,6 +1881,7 @@ hr.blue-hr {
 
 #portfolio .container span {
     left: 20%;
+    text-align: justify;
 }
 
 .portfolio-image-view {
