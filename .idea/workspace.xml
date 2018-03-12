@@ -74,8 +74,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="421">
-                  <caret line="341" column="28" lean-forward="false" selection-start-line="341" selection-start-column="28" selection-end-line="341" selection-end-column="28" />
+                <state relative-caret-position="166">
+                  <caret line="373" column="109" lean-forward="false" selection-start-line="373" selection-start-column="109" selection-end-line="373" selection-end-column="109" />
                   <folding />
                 </state>
               </provider>
@@ -474,7 +474,7 @@
       <workItem from="1520401632858" duration="1833000" />
       <workItem from="1520412426103" duration="965000" />
       <workItem from="1520417704314" duration="1231000" />
-      <workItem from="1520852935082" duration="9040000" />
+      <workItem from="1520852935082" duration="9202000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1512741649752</created>
@@ -770,11 +770,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520863162380</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="text">
+      <created>1520863179879</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1520863179879</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="445352000" />
+    <option name="totallyTimeSpent" value="445514000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1247,8 +1254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="341" column="28" lean-forward="false" selection-start-line="341" selection-start-column="28" selection-end-line="341" selection-end-column="28" />
+        <state relative-caret-position="166">
+          <caret line="373" column="109" lean-forward="false" selection-start-line="373" selection-start-column="109" selection-end-line="373" selection-end-column="109" />
           <folding />
         </state>
       </provider>

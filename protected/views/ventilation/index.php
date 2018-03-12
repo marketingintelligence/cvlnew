@@ -371,7 +371,7 @@
 
 
     <div class="complex v-anim">
-        <p class="mobile-none">Комплексное решение <img src="/assets_cvl/img/landing/cvl.png"> “от проектирования до безупречного сервиса”</p>
+        <p class="mobile-none">Мы предлагаем комплексное решение - от проектирования до безупречного сервиса!</p>
         <h1 class="mobile-visible">Комплексное решение CVL</h1>
         <p class="mobile-visible"> “от проектирования до безупречного сервиса”</p>
         <div class="complex-box">
