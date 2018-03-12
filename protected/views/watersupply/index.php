@@ -707,7 +707,7 @@
                             </div>
                         </div>
                     </div>
-                    <p>Офис</p>
+                    <p class="margin-top">Офис</p>
                     <hr>
                     <div class="date"  data-map = "2">
                         <div class="date-item">
@@ -820,7 +820,7 @@
                     <h2>Г. АСТАНА</h2>
                 </div>
                 <div class="info"  id="info-1">
-                    <p>Офис</p>
+                    <p >Офис</p>
                     <hr>
                     <div class="date" style="cursor: pointer">
                         <div class="date-item">
@@ -846,7 +846,7 @@
                         </div>
                     </div>
 
-                    <p>Офис</p>
+                    <p class="margin-top">Офис</p>
                     <hr>
                     <div class="date">
                         <div class="date-item">

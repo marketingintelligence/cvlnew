@@ -1033,7 +1033,7 @@
                             </div>
                         </div>
                     </div>
-                    <p>Офис</p>
+                    <p class="margin-top">Офис</p>
                     <hr>
                     <div class="date"  data-map = "2">
                         <div class="date-item">
@@ -1174,7 +1174,7 @@
                     </div>
                 </div>
 
-                <p>Офис</p>
+                <p class="margin-top">Офис</p>
                 <hr>
                 <div class="date">
                     <div class="date-item">
