@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="js send email">
+    <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/assets_cvl/js/script.js" afterPath="$PROJECT_DIR$/assets_cvl/js/script.js" />
-      <change beforePath="$PROJECT_DIR$/protected/views/heating/index.php" afterPath="$PROJECT_DIR$/protected/views/heating/index.php" />
+      <change beforePath="$PROJECT_DIR$/protected/views/coldsupply/index.php" afterPath="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
+      <change beforePath="$PROJECT_DIR$/protected/views/watersupply/index.php" afterPath="$PROJECT_DIR$/protected/views/watersupply/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +27,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.42618385">
+    <splitter split-orientation="horizontal" split-proportion="0.866171">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
@@ -52,11 +53,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="166">
-                  <caret line="207" column="44" lean-forward="false" selection-start-line="207" selection-start-column="44" selection-end-line="207" selection-end-column="44" />
+                <state relative-caret-position="183">
+                  <caret line="208" column="47" lean-forward="false" selection-start-line="208" selection-start-column="37" selection-end-line="208" selection-end-column="47" />
                   <folding />
                 </state>
               </provider>
@@ -65,8 +66,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2414">
-                  <caret line="142" column="87" lean-forward="false" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="87" />
+                <state relative-caret-position="149">
+                  <caret line="224" column="50" lean-forward="false" selection-start-line="224" selection-start-column="50" selection-end-line="224" selection-end-column="50" />
                   <folding />
                 </state>
               </provider>
@@ -82,11 +83,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="14042">
-                  <caret line="826" column="41" lean-forward="false" selection-start-line="826" selection-start-column="41" selection-end-line="826" selection-end-column="41" />
+                <state relative-caret-position="149">
+                  <caret line="208" column="50" lean-forward="false" selection-start-line="208" selection-start-column="50" selection-end-line="208" selection-end-column="50" />
                   <folding />
                 </state>
               </provider>
@@ -173,11 +174,11 @@
           <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="149">
-                  <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+                <state relative-caret-position="17">
+                  <caret line="60" column="3" lean-forward="true" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
                   <folding>
-                    <marker date="1520908965582" expanded="true" signature="3444:3513" ph="..." />
-                    <marker date="1520908965582" expanded="true" signature="4092:4161" ph="..." />
+                    <marker date="1520909212170" expanded="true" signature="3422:3491" ph="..." />
+                    <marker date="1520909212170" expanded="true" signature="4070:4139" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -199,7 +200,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>90905</find>
       <find>18:0</find>
       <find>професс</find>
       <find>проектирование</find>
@@ -225,10 +225,11 @@
       <find>#D66161</find>
       <find>send</find>
       <find>send2</find>
-      <find>Заказать звонок</find>
       <find>zvonok</find>
       <find>name2</find>
       <find>name</find>
+      <find>Заказать звонок</find>
+      <find>zvon</find>
     </findStrings>
     <replaceStrings>
       <replace>Topsoc</replace>
@@ -338,9 +339,7 @@
         <option value="$PROJECT_DIR$/assets_cvl/css/landing-responsive.css" />
         <option value="$PROJECT_DIR$/protected/views/layouts/modal.php" />
         <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
-        <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
         <option value="$PROJECT_DIR$/protected/views/site/index.php" />
-        <option value="$PROJECT_DIR$/protected/views/watersupply/index.php" />
         <option value="$PROJECT_DIR$/assets_cvl/css/style.css" />
         <option value="$PROJECT_DIR$/protected/config/main.php" />
         <option value="$PROJECT_DIR$/assets_cvl/css/landing.css" />
@@ -348,6 +347,8 @@
         <option value="$PROJECT_DIR$/mail.php" />
         <option value="$PROJECT_DIR$/protected/views/heating/index.php" />
         <option value="$PROJECT_DIR$/assets_cvl/js/script.js" />
+        <option value="$PROJECT_DIR$/protected/views/watersupply/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
       </list>
     </option>
   </component>
@@ -513,14 +514,7 @@
       <workItem from="1520412426103" duration="965000" />
       <workItem from="1520417704314" duration="1231000" />
       <workItem from="1520852935082" duration="11508000" />
-      <workItem from="1520906584203" duration="2342000" />
-    </task>
-    <task id="LOCAL-00005" summary="Commit">
-      <created>1512753817619</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1512753817619</updated>
+      <workItem from="1520906584203" duration="2574000" />
     </task>
     <task id="LOCAL-00006" summary="Commit">
       <created>1512809274883</created>
@@ -858,11 +852,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520908634586</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="js send email">
+      <created>1520908996725</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1520908996725</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="450162000" />
+    <option name="totallyTimeSpent" value="450394000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -976,7 +977,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1238,26 +1239,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14042">
-          <caret line="826" column="41" lean-forward="false" selection-start-line="826" selection-start-column="41" selection-end-line="826" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2414">
-          <caret line="142" column="87" lean-forward="false" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1802">
-          <caret line="106" column="51" lean-forward="false" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
+          <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -1325,6 +1310,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="60" column="3" lean-forward="true" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+          <folding>
+            <marker date="1520909212170" expanded="true" signature="3422:3491" ph="..." />
+            <marker date="1520909212170" expanded="true" signature="4070:4139" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="208" column="47" lean-forward="false" selection-start-line="208" selection-start-column="37" selection-end-line="208" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="224" column="50" lean-forward="false" selection-start-line="224" selection-start-column="50" selection-end-line="224" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1333,22 +1345,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="207" column="44" lean-forward="false" selection-start-line="207" selection-start-column="44" selection-end-line="207" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
+    <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
-          <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
-          <folding>
-            <marker date="1520908965582" expanded="true" signature="3444:3513" ph="..." />
-            <marker date="1520908965582" expanded="true" signature="4092:4161" ph="..." />
-          </folding>
+          <caret line="208" column="50" lean-forward="false" selection-start-line="208" selection-start-column="50" selection-end-line="208" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
