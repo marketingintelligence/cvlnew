@@ -4,7 +4,6 @@
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/protected/views/heating/index.php" afterPath="$PROJECT_DIR$/protected/views/heating/index.php" />
-      <change beforePath="$PROJECT_DIR$/protected/views/watersupply/index.php" afterPath="$PROJECT_DIR$/protected/views/watersupply/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,8 +54,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="166">
-                  <caret line="387" column="12" lean-forward="false" selection-start-line="387" selection-start-column="12" selection-end-line="387" selection-end-column="12" />
+                <state relative-caret-position="353">
+                  <caret line="502" column="43" lean-forward="false" selection-start-line="502" selection-start-column="43" selection-end-line="502" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
@@ -65,7 +64,7 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="166">
+                <state relative-caret-position="-854">
                   <caret line="288" column="138" lean-forward="false" selection-start-line="288" selection-start-column="138" selection-end-line="288" selection-end-column="138" />
                   <folding />
                 </state>
@@ -75,8 +74,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="166">
-                  <caret line="373" column="8" lean-forward="false" selection-start-line="373" selection-start-column="8" selection-end-line="373" selection-end-column="8" />
+                <state relative-caret-position="302">
+                  <caret line="341" column="43" lean-forward="true" selection-start-line="338" selection-start-column="24" selection-end-line="341" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
@@ -199,8 +198,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>частным</find>
-      <find>вашкй</find>
       <find>комплек</find>
       <find>комплексное решение</find>
       <find>мы пре</find>
@@ -227,8 +224,10 @@
       <find>контрольно-из</find>
       <find>емкости</find>
       <find>теплои</find>
-      <find>контрольно</find>
       <find>контроль</find>
+      <find>контрольно</find>
+      <find>16</find>
+      <find>частным</find>
     </findStrings>
     <replaceStrings>
       <replace>Topsoc</replace>
@@ -521,14 +520,7 @@
       <workItem from="1520417704314" duration="1231000" />
       <workItem from="1520852935082" duration="11508000" />
       <workItem from="1520906584203" duration="2937000" />
-      <workItem from="1520927115770" duration="8005000" />
-    </task>
-    <task id="LOCAL-00028" summary="текст">
-      <created>1520856792820</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1520856792820</updated>
+      <workItem from="1520927115770" duration="8140000" />
     </task>
     <task id="LOCAL-00029" summary="text">
       <created>1520857021671</created>
@@ -866,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520939118345</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="text heating">
+      <created>1520939379223</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1520939379223</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="458762000" />
+    <option name="totallyTimeSpent" value="458897000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1330,14 +1329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="373" column="8" lean-forward="false" selection-start-line="373" selection-start-column="8" selection-end-line="373" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1348,16 +1339,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
+        <state relative-caret-position="-854">
           <caret line="288" column="138" lean-forward="false" selection-start-line="288" selection-start-column="138" selection-end-line="288" selection-end-column="138" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="341" column="43" lean-forward="true" selection-start-line="338" selection-start-column="24" selection-end-line="341" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="387" column="12" lean-forward="false" selection-start-line="387" selection-start-column="12" selection-end-line="387" selection-end-column="12" />
+        <state relative-caret-position="353">
+          <caret line="502" column="43" lean-forward="false" selection-start-line="502" selection-start-column="43" selection-end-line="502" selection-end-column="43" />
           <folding />
         </state>
       </provider>
