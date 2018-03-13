@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/protected/views/site/index.php" afterPath="$PROJECT_DIR$/protected/views/site/index.php" />
+      <change beforePath="$PROJECT_DIR$/protected/views/coldsupply/index.php" afterPath="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +25,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.74091333">
+    <splitter split-orientation="horizontal" split-proportion="0.7977633">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
@@ -38,7 +38,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="166">
@@ -54,8 +54,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="472">
-                  <caret line="555" column="126" lean-forward="false" selection-start-line="555" selection-start-column="126" selection-end-line="555" selection-end-column="126" />
+                <state relative-caret-position="183">
+                  <caret line="368" column="130" lean-forward="true" selection-start-line="368" selection-start-column="19" selection-end-line="368" selection-end-column="130" />
                   <folding />
                 </state>
               </provider>
@@ -81,11 +81,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="166">
-                  <caret line="558" column="106" lean-forward="false" selection-start-line="558" selection-start-column="106" selection-end-line="558" selection-end-column="106" />
+                <state relative-caret-position="234">
+                  <caret line="240" column="51" lean-forward="true" selection-start-line="240" selection-start-column="51" selection-end-line="240" selection-end-column="51" />
                   <folding />
                 </state>
               </provider>
@@ -198,8 +198,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>для ваше</find>
-      <find>комплексное</find>
       <find>комп</find>
       <find>комплексное р</find>
       <find>бесперебойную работу</find>
@@ -226,8 +224,10 @@
       <find>бесперебой</find>
       <find>любую то</find>
       <find>вашим</find>
-      <find>беспере</find>
       <find>бесперебойную</find>
+      <find>беспере</find>
+      <find>насосн</find>
+      <find>насосы</find>
     </findStrings>
     <replaceStrings>
       <replace>Topsoc</replace>
@@ -343,10 +343,10 @@
         <option value="$PROJECT_DIR$/protected/views/ventilation/index.php" />
         <option value="$PROJECT_DIR$/assets_cvl/js/script.js" />
         <option value="$PROJECT_DIR$/mail.php" />
-        <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
         <option value="$PROJECT_DIR$/protected/views/watersupply/index.php" />
         <option value="$PROJECT_DIR$/protected/views/heating/index.php" />
         <option value="$PROJECT_DIR$/protected/views/site/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
       </list>
     </option>
   </component>
@@ -520,14 +520,7 @@
       <workItem from="1520417704314" duration="1231000" />
       <workItem from="1520852935082" duration="11508000" />
       <workItem from="1520906584203" duration="2937000" />
-      <workItem from="1520927115770" duration="8789000" />
-    </task>
-    <task id="LOCAL-00032" summary="слайдер">
-      <created>1520857954671</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1520857954671</updated>
+      <workItem from="1520927115770" duration="9088000" />
     </task>
     <task id="LOCAL-00033" summary="лэндинг changes">
       <created>1520858979579</created>
@@ -865,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520939894864</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="text">
+      <created>1520940177151</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1520940177151</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459546000" />
+    <option name="totallyTimeSpent" value="459845000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -978,10 +978,10 @@
     <MESSAGE value="text number" />
     <MESSAGE value="текст" />
     <MESSAGE value="js send email" />
-    <MESSAGE value="text" />
     <MESSAGE value="text water" />
     <MESSAGE value="text heating" />
-    <option name="LAST_COMMIT_MESSAGE" value="text heating" />
+    <MESSAGE value="text" />
+    <option name="LAST_COMMIT_MESSAGE" value="text" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1318,14 +1318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="558" column="106" lean-forward="false" selection-start-line="558" selection-start-column="106" selection-end-line="558" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-854">
@@ -1342,14 +1334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="555" column="126" lean-forward="false" selection-start-line="555" selection-start-column="126" selection-end-line="555" selection-end-column="126" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1358,6 +1342,22 @@
             <marker date="1520940155271" expanded="true" signature="42676:42810" ph="..." />
             <marker date="1520940155271" expanded="true" signature="42912:43045" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="368" column="130" lean-forward="true" selection-start-line="368" selection-start-column="19" selection-end-line="368" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="240" column="51" lean-forward="true" selection-start-line="240" selection-start-column="51" selection-end-line="240" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
