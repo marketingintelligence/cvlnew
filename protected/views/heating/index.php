@@ -522,14 +522,14 @@
             </div>
             <div class="cloud revealOnScroll" id="cloud-4" data-animation="bounceIn" data-timeout="2000">
                 <h3>4</h3>
-                <p>и мы подготовим <br>проект для вашей<br> задачи.</p>
+                <p>и мы подготовим <br>проект для Вашей<br> задачи.</p>
             </div>
         </div>
     </div>
 </section>
 <div class="h-complex" id="page3">
     <div class="complex">
-        <p class="mobile-none">Комплексное решение <img src="/assets_cvl/img/landing/cvl.png"> “от проектирования до безупречного сервиса”</p>
+        <p class="mobile-none">Мы предлагаем комплексное решение - от проектирования до безупречного сервиса!</p>
         <h1 class="mobile-visible">Комплексное решение CVL</h1>
         <p class="mobile-visible"> “от проектирования до безупречного сервиса”</p>
         <div class="h-service">
