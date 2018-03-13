@@ -161,7 +161,7 @@
     <div class="c-box">
         <img src="/assets_cvl/img/landing/cold/cloud1.png" class="cloud-1">
         <img src="/assets_cvl/img/landing/cold/cloud2.png" class="cloud-2">
-        <h1>Охлаждение <br>и увлажнение</h1>
+        <h1>Охлаждение <br></h1>
         <h3>воздуха в вашем доме, офисе <br>или предприятии!</h3>
         <div class="c-box-text">
             <p>Минимальные затраты на систему кондиционирования.</p>
@@ -219,7 +219,7 @@
     <canvas class="snow-canvas2" speed="8" interaction="true" size="6" count="100" wind-power="-5" image="/assets_cvl/img/snow.png" width="1366" height="667"></canvas>
     <div class="w-title2" id="page1">
         <h2>Оборудование</h2>
-        <span>Охладительное оборудование для организации идеального температурного режима <br>в помещении – всё, что вам необходимо, найдется у нас. </span>
+        <span>Холодоснабжающее оборудование для организации идеального температурного режима <br>в помещении – всё, что Вам необходимо, найдется у нас. </span>
     </div>
     <div class="c-products mobile-none">
         <div class="c-products-item">
@@ -232,7 +232,7 @@
         </div>
         <div class="c-products-item">
             <div class="c-pro-head">
-                <p>Кондиционеры</p>
+                <p>Чиллеры</p>
                 <img src="/assets_cvl/img/landing/cold/logo2.png">
             </div>
             <hr>
@@ -244,7 +244,7 @@
                 <img src="/assets_cvl/img/landing/cold/logo3.png">
             </div>
             <hr>
-            <span>Металлополимерные трубы разного диаметра – от 16 до 32 мм. для монтажа систем хладоснабжения любой сложности. </span>
+            <span>Металлополимерные трубы разного диаметра – от 16 до 32 мм для монтажа систем холодоснабжения любой сложности. </span>
         </div>
     </div>
     <div class="c-products mobile-none">
@@ -262,7 +262,7 @@
                 <img src="/assets_cvl/img/landing/cold/logo5.png">
             </div>
             <hr>
-            <span>Запорно-регулирующая арматура из латуни для управления потоками воздуха, перекрытия и распределения по трубам. Продукция из Италии.</span>
+            <span>Запорно-регулирующая арматура для управления потоками воздуха, перекрытия и распределения по трубам.</span>
         </div>
         <div class="c-products-item  in">
             <div class="c-pro-head">
