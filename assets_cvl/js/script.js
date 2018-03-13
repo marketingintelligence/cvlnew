@@ -78,6 +78,7 @@ $(document).ready(function() {
         var phone = $(".phone").val();
         var error = 0;
         if (phone == "") {
+            alert(phone);
             /*$(".phone").css("background", "#D66161");*/
             error++;
         }
