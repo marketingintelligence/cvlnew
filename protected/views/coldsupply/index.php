@@ -556,7 +556,7 @@
         <div class="l-partnres">
             <div class="l-partnres-text" style="color: #FFFFFF" id="page4">
                 <h2>Партнеры</h2>
-                <p>За годы работы мы приобрели надежных партнеров,<br>которые вместе с нами работают над вашим комфортом!</p>
+                <p>За годы работы мы приобрели надежных партнеров,<br>которые вместе с нами работают над Вашим комфортом!</p>
             </div>
             <div class="l-partnres-slide c-nav" id="slide-1">
                 <div class="l-arrow-left" id="l-prev1"><img src="/assets_cvl/img/landing/arr.png" class="arr-prev"></div>
