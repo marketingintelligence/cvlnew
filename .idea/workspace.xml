@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets_cvl/js/script.js" afterPath="$PROJECT_DIR$/assets_cvl/js/script.js" />
+      <change beforePath="$PROJECT_DIR$/mail.php" afterPath="$PROJECT_DIR$/mail.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,7 +81,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="149">
@@ -101,15 +101,15 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="mail.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mail.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+                <state relative-caret-position="238">
+                  <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
                   <folding>
-                    <marker date="1520907502394" expanded="true" signature="571:760" ph="..." />
-                    <marker date="1520907502394" expanded="true" signature="581:664" ph="..." />
-                    <marker date="1520907502394" expanded="true" signature="674:751" ph="..." />
+                    <marker date="1520909418511" expanded="true" signature="571:760" ph="..." />
+                    <marker date="1520909418511" expanded="true" signature="581:664" ph="..." />
+                    <marker date="1520909418511" expanded="true" signature="674:751" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -342,11 +342,11 @@
         <option value="$PROJECT_DIR$/protected/config/main.php" />
         <option value="$PROJECT_DIR$/assets_cvl/css/landing.css" />
         <option value="$PROJECT_DIR$/protected/views/ventilation/index.php" />
-        <option value="$PROJECT_DIR$/mail.php" />
         <option value="$PROJECT_DIR$/protected/views/heating/index.php" />
         <option value="$PROJECT_DIR$/protected/views/watersupply/index.php" />
         <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
         <option value="$PROJECT_DIR$/assets_cvl/js/script.js" />
+        <option value="$PROJECT_DIR$/mail.php" />
       </list>
     </option>
   </component>
@@ -512,14 +512,7 @@
       <workItem from="1520412426103" duration="965000" />
       <workItem from="1520417704314" duration="1231000" />
       <workItem from="1520852935082" duration="11508000" />
-      <workItem from="1520906584203" duration="2673000" />
-    </task>
-    <task id="LOCAL-00007" summary="Commit">
-      <created>1512826429829</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1512826429829</updated>
+      <workItem from="1520906584203" duration="2781000" />
     </task>
     <task id="LOCAL-00008" summary="Commit">
       <created>1512827901735</created>
@@ -857,11 +850,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520909230800</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="js send email">
+      <created>1520909325807</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1520909325808</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="450493000" />
+    <option name="totallyTimeSpent" value="450601000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1240,7 +1240,7 @@
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1802">
-          <caret line="106" column="51" lean-forward="false" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
+          <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -1296,18 +1296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-          <folding>
-            <marker date="1520907502394" expanded="true" signature="571:760" ph="..." />
-            <marker date="1520907502394" expanded="true" signature="581:664" ph="..." />
-            <marker date="1520907502394" expanded="true" signature="674:751" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -1332,6 +1320,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding>
+            <marker date="1520909310952" expanded="true" signature="3396:3465" ph="..." />
+            <marker date="1520909310952" expanded="true" signature="4044:4113" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -1340,13 +1339,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
+    <entry file="file://$PROJECT_DIR$/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding>
-            <marker date="1520909310952" expanded="true" signature="3396:3465" ph="..." />
-            <marker date="1520909310952" expanded="true" signature="4044:4113" ph="..." />
+            <marker date="1520909418511" expanded="true" signature="571:760" ph="..." />
+            <marker date="1520909418511" expanded="true" signature="581:664" ph="..." />
+            <marker date="1520909418511" expanded="true" signature="674:751" ph="..." />
           </folding>
         </state>
       </provider>
