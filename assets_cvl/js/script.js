@@ -77,14 +77,14 @@ $(document).ready(function() {
         var name = $(".name").val();
         var phone = $(".phone").val();
         var error = 0;
-        if (phone == "") {
+        /*if (phone == "") {
             alert(phone);
-            /*$(".phone").css("background", "#D66161");*/
+            /!*$(".phone").css("background", "#D66161");*!/
             error++;
-        }
-        if (error == 0) {
+        }*/
+        /*if (error == 0) {*/
             Send2(name, phone);
-        }
+        /*}*/
     });
     $("body").on("click", "#zvonok2-btn", function() {
         var name = $(".name2").val();
