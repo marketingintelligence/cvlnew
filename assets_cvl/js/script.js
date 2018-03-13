@@ -74,8 +74,8 @@ $(document).ready(function() {
         }
     });
     $("body").on("click", "#zvonok-btn", function() {
-        var name = $(".name").val();
-        var phone = $(".phone").val();
+        var name = $("#name").val();
+        var phone = $("#phone").val();
         var error = 0;
         /*if (phone == "") {
             alert(phone);

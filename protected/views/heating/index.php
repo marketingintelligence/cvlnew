@@ -205,7 +205,7 @@
             <div class="before">
                 <img src="/assets_cvl/img/landing/heating/logo.png">
                 <p>Получите бесплатную <br>консультацию у экспертного<br> инженера!</p>
-                <input class="name" name="name" type="text" placeholder="Имя">
+                <input class="name" id="name" name="name" type="text" placeholder="Имя">
                 <input class="phone" id="phone" name="phone" type="text"  placeholder="Телефон">
                 <button id="zvonok-btn" class="blick">Заказать звонок</button>
             </div>
