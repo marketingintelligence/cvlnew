@@ -272,7 +272,7 @@
                 <img src="/assets_cvl/img/landing/cold/logo6.png">
             </div>
             <hr>
-            <span> </span>
+            <span>Циркуляционное насосное оборудование и повысительные насосные станции от лучших производителей Европы и России.</span>
         </div>
     </div>
     <div class="c-products mobile-visible">

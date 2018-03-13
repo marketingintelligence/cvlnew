@@ -55,7 +55,7 @@
             <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="183">
-                  <caret line="368" column="130" lean-forward="true" selection-start-line="368" selection-start-column="19" selection-end-line="368" selection-end-column="130" />
+                  <caret line="368" column="130" lean-forward="false" selection-start-line="368" selection-start-column="19" selection-end-line="368" selection-end-column="130" />
                   <folding />
                 </state>
               </provider>
@@ -84,8 +84,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="234">
-                  <caret line="240" column="51" lean-forward="true" selection-start-line="240" selection-start-column="51" selection-end-line="240" selection-end-column="51" />
+                <state relative-caret-position="387">
+                  <caret line="274" column="15" lean-forward="false" selection-start-line="274" selection-start-column="15" selection-end-line="274" selection-end-column="15" />
                   <folding />
                 </state>
               </provider>
@@ -198,9 +198,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>комп</find>
-      <find>комплексное р</find>
-      <find>бесперебойную работу</find>
       <find>в любую точку мира</find>
       <find>в любую точку</find>
       <find>вперед</find>
@@ -217,7 +214,6 @@
       <find>контрольно</find>
       <find>16</find>
       <find>частным</find>
-      <find>комплексное решение</find>
       <find>комплекс</find>
       <find>комплексное ре</find>
       <find>вашей</find>
@@ -226,8 +222,12 @@
       <find>вашим</find>
       <find>бесперебойную</find>
       <find>беспере</find>
-      <find>насосн</find>
+      <find>чиллеры</find>
       <find>насосы</find>
+      <find>Отводы</find>
+      <find>c-pro-head</find>
+      <find>насосн</find>
+      <find>комплексное решение</find>
     </findStrings>
     <replaceStrings>
       <replace>Topsoc</replace>
@@ -520,14 +520,7 @@
       <workItem from="1520417704314" duration="1231000" />
       <workItem from="1520852935082" duration="11508000" />
       <workItem from="1520906584203" duration="2937000" />
-      <workItem from="1520927115770" duration="9088000" />
-    </task>
-    <task id="LOCAL-00033" summary="лэндинг changes">
-      <created>1520858979579</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1520858979579</updated>
+      <workItem from="1520927115770" duration="9441000" />
     </task>
     <task id="LOCAL-00034" summary="menu number">
       <created>1520859988329</created>
@@ -865,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520940177151</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="text">
+      <created>1520940464885</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1520940464885</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459845000" />
+    <option name="totallyTimeSpent" value="460198000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1326,14 +1326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="373" column="109" lean-forward="false" selection-start-line="373" selection-start-column="31" selection-end-line="373" selection-end-column="109" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1348,15 +1340,23 @@
     <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
-          <caret line="368" column="130" lean-forward="true" selection-start-line="368" selection-start-column="19" selection-end-line="368" selection-end-column="130" />
+          <caret line="368" column="130" lean-forward="false" selection-start-line="368" selection-start-column="19" selection-end-line="368" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="373" column="109" lean-forward="false" selection-start-line="373" selection-start-column="31" selection-end-line="373" selection-end-column="109" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="240" column="51" lean-forward="true" selection-start-line="240" selection-start-column="51" selection-end-line="240" selection-end-column="51" />
+        <state relative-caret-position="387">
+          <caret line="274" column="15" lean-forward="false" selection-start-line="274" selection-start-column="15" selection-end-line="274" selection-end-column="15" />
           <folding />
         </state>
       </provider>
