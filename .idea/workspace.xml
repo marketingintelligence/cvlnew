@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets_cvl/img/hover_img/7.jpg" />
+    <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="text">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/protected/views/coldsupply/index.php" afterPath="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
     </list>
@@ -75,8 +74,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3808">
-                  <caret line="224" column="74" lean-forward="false" selection-start-line="224" selection-start-column="59" selection-end-line="224" selection-end-column="74" />
+                <state relative-caret-position="166">
+                  <caret line="312" column="16" lean-forward="true" selection-start-line="312" selection-start-column="16" selection-end-line="312" selection-end-column="86" />
                   <folding />
                 </state>
               </provider>
@@ -85,8 +84,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="430">
-                  <caret line="264" column="118" lean-forward="false" selection-start-line="264" selection-start-column="118" selection-end-line="264" selection-end-column="118" />
+                <state relative-caret-position="489">
+                  <caret line="382" column="18" lean-forward="true" selection-start-line="382" selection-start-column="18" selection-end-line="382" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -199,9 +198,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>професс</find>
-      <find>проектирование</find>
-      <find>партнеры</find>
       <find>поставка</find>
       <find>улбике акын</find>
       <find>35</find>
@@ -229,6 +225,9 @@
       <find>Заказать звонок</find>
       <find>zvon</find>
       <find>холодоснаб</find>
+      <find>отводы</find>
+      <find>за 16</find>
+      <find>за 17</find>
     </findStrings>
     <replaceStrings>
       <replace>Topsoc</replace>
@@ -521,14 +520,7 @@
       <workItem from="1520417704314" duration="1231000" />
       <workItem from="1520852935082" duration="11508000" />
       <workItem from="1520906584203" duration="2937000" />
-      <workItem from="1520927115770" duration="1459000" />
-    </task>
-    <task id="LOCAL-00009" summary="Commit">
-      <created>1512901905129</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1512901905129</updated>
+      <workItem from="1520927115770" duration="1724000" />
     </task>
     <task id="LOCAL-00010" summary="Commit">
       <created>1512906490797</created>
@@ -866,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520909426578</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="text">
+      <created>1520932548306</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1520932548308</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="452216000" />
+    <option name="totallyTimeSpent" value="452481000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1313,14 +1312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3808">
-          <caret line="224" column="74" lean-forward="false" selection-start-line="224" selection-start-column="59" selection-end-line="224" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1352,10 +1343,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="312" column="16" lean-forward="true" selection-start-line="312" selection-start-column="16" selection-end-line="312" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="264" column="118" lean-forward="false" selection-start-line="264" selection-start-column="118" selection-end-line="264" selection-end-column="118" />
+        <state relative-caret-position="489">
+          <caret line="382" column="18" lean-forward="true" selection-start-line="382" selection-start-column="18" selection-end-line="382" selection-end-column="18" />
           <folding />
         </state>
       </provider>
