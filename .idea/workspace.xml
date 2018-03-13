@@ -55,7 +55,7 @@
             <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="166">
-                  <caret line="531" column="59" lean-forward="false" selection-start-line="531" selection-start-column="45" selection-end-line="531" selection-end-column="59" />
+                  <caret line="432" column="32" lean-forward="true" selection-start-line="432" selection-start-column="32" selection-end-line="432" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
@@ -198,8 +198,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>инженерных систем</find>
-      <find>c-products-item</find>
       <find>чиллеры</find>
       <find>думаете</find>
       <find>за 17</find>
@@ -225,9 +223,11 @@
       <find>16</find>
       <find>частным</find>
       <find>комплексное решение</find>
-      <find>вашей</find>
       <find>комплекс</find>
       <find>комплексное ре</find>
+      <find>вашей</find>
+      <find>бесперебой</find>
+      <find>любую то</find>
     </findStrings>
     <replaceStrings>
       <replace>Topsoc</replace>
@@ -520,14 +520,7 @@
       <workItem from="1520417704314" duration="1231000" />
       <workItem from="1520852935082" duration="11508000" />
       <workItem from="1520906584203" duration="2937000" />
-      <workItem from="1520927115770" duration="8244000" />
-    </task>
-    <task id="LOCAL-00030" summary="текст">
-      <created>1520857203023</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1520857203023</updated>
+      <workItem from="1520927115770" duration="8520000" />
     </task>
     <task id="LOCAL-00031" summary="пробел">
       <created>1520857334324</created>
@@ -865,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520939514372</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="text heating">
+      <created>1520939620662</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1520939620663</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459001000" />
+    <option name="totallyTimeSpent" value="459277000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1356,7 +1356,7 @@
     <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
-          <caret line="531" column="59" lean-forward="false" selection-start-line="531" selection-start-column="45" selection-end-line="531" selection-end-column="59" />
+          <caret line="432" column="32" lean-forward="true" selection-start-line="432" selection-start-column="32" selection-end-line="432" selection-end-column="32" />
           <folding />
         </state>
       </provider>
