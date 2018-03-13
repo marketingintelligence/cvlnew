@@ -11,8 +11,10 @@ $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
 $mail->Username = "maint.zakaz@gmail.com";
 $mail->Password = "MMaint112233";
-$mail->setFrom('sales@cvl.kz');
-$mail->addAddress('sales@cvl.kz', 'Cvl Company');
+/*$mail->setFrom('sales@cvl.kz');
+$mail->addAddress('sales@cvl.kz', 'Cvl Company');*/
+$mail->setFrom('savezhanov.d@maint.kz');
+$mail->addAddress('savezhanov.d@maint.kz', 'Cvl Company');
 $mail->isHTML(true);
 
 $mail->Subject = 'Заказ звонка на сайте Cvl.kz';
