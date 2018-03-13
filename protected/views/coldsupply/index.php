@@ -564,33 +564,53 @@
                     <div class="l-slide-nav">
                         <div class="l-slide-item">
                             <div class="l-slide-up">
-                                <?=$page[5]->full_bigtexteditor?>
+                                <?/*=$page[5]->full_bigtexteditor*/?>
+                                <img src="/assets_cvl/img/partnerslogo/VTS.png">
+                                <img src="/assets_cvl/img/partnerslogo/trane_logo.jpg">
+                                <img src="/assets_cvl/img/partnerslogo/compipe.png">
+                                <img src="/assets_cvl/img/partnerslogo/kan.png">
+                                <img src="/assets_cvl/img/partnerslogo/sauter.png">
                             </div>
                             <div class="l-slide-down">
-                                <?=$page[4]->full_bigtexteditor?>
+                                <?/*=$page[4]->full_bigtexteditor*/?>
+                                <img src="/assets_cvl/img/partnerslogo/danfoss.png">
+                                <img src="/assets_cvl/img/partnerslogo/imi.jpg">
+                                <img src="/assets_cvl/img/partnerslogo/WILO.png">
+                                <img src="/assets_cvl/img/partnerslogo/grundfos.png">
                             </div>
                         </div>
                         <div class="l-slide-item">
                             <div class="l-slide-up">
-                                <?=$page[3]->full_bigtexteditor?>
+                                <?/*=$page[3]->full_bigtexteditor*/?>
+                                <img src="/assets_cvl/img/partnerslogo/comisa.png">
+                                <img src="/assets_cvl/img/partnerslogo/comtek.png">
+                                <img src="/assets_cvl/img/partnerslogo/evan.jpg">
+                                <img src="/assets_cvl/img/partnerslogo/k-flex.gif">
                             </div>
                             <div class="l-slide-down">
-                                <?=$page[2]->full_bigtexteditor?>
+                                <?/*=$page[2]->full_bigtexteditor*/?>
+                                <img src="/assets_cvl/img/partnerslogo/Giacomini.jpg">
+                                <img src="/assets_cvl/img/partnerslogo/also.png">
+                                <img src="/assets_cvl/img/partnerslogo/thermaflex.png">
+                                <img src="/assets_cvl/img/partnerslogo/HLV1.png">
                             </div>
                         </div>
                         <div class="l-slide-item">
                             <div class="l-slide-up">
-                                <?=$page[1]->full_bigtexteditor?>
+                                <?/*=$page[1]->full_bigtexteditor*/?>
+                                <img src="/assets_cvl/img/partnerslogo/misotflex.png">
+                                <img src="/assets_cvl/img/partnerslogo/steklopribor.png">
+                                <img src="/assets_cvl/img/partnerslogo/unipump.jpg">
                             </div>
-                            <div class="l-slide-down">
-                                <?=$page[0]->full_bigtexteditor?>
-                            </div>
+                            <!--<div class="l-slide-down">
+                                <?/*=$page[0]->full_bigtexteditor*/?>
+                            </div>-->
                         </div>
-                        <div class="l-slide-item">
+                        <!--<div class="l-slide-item">
                             <div class="l-slide-up">
-                                <?=$page[9]->full_bigtexteditor?>
+                                <?/*=$page[9]->full_bigtexteditor*/?>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
                 <div class="l-arrow-right" id="l-next1"><img src="/assets_cvl/img/landing/arr.png" class="arr-next"></div>
