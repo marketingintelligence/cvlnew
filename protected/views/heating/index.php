@@ -442,8 +442,8 @@
         <div class="big-call">
             <h2>Затрудняетесь с выбором?</h2>
             <p>Мы подберем оборудование за 2 дня и совершенно бесплатно – закажите звонок, и мы перезвоним!</p>
-            <input class="name2" name="name" type="text" placeholder="Имя">
-            <input class="phone2" name="phone" type="text"  placeholder="Телефон" style="margin-left: 1%">
+            <input class="name2" name="name2" type="text" placeholder="Имя">
+            <input class="phone2" name="phone2" type="text"  placeholder="Телефон" style="margin-left: 1%">
             <button id="zvonok2-btn" type="submit" class="blick">Заказать</button>
             <div class="big-top"></div>
             <div class="big-left"></div>
