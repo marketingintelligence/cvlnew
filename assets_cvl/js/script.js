@@ -66,7 +66,7 @@ $(document).ready(function() {
         var phone = $(".phone").val();
         var error = 0;
         if (phone == "") {
-            $(".phone").css("background", "#D66161");
+            /*$(".phone").css("background", "#D66161");*/
             error++;
         }
         if (error == 0) {
@@ -78,7 +78,7 @@ $(document).ready(function() {
         var phone = $(".phone").val();
         var error = 0;
         if (phone == "") {
-            $(".phone").css("background", "#D66161");
+            /*$(".phone").css("background", "#D66161");*/
             error++;
         }
         if (error == 0) {
@@ -90,7 +90,7 @@ $(document).ready(function() {
         var phone = $(".phone2").val();
         var error = 0;
         if (phone == "") {
-            $(".phone2").css("background", "#D66161");
+            /*$(".phone2").css("background", "#D66161");*/
             error++;
         }
         if (error == 0) {
