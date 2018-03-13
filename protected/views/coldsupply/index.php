@@ -238,7 +238,7 @@
                 <img src="/assets_cvl/img/landing/cold/logo2.png">
             </div>
             <hr>
-            <span>Системы охлаждения воздуха промышленных, жилых и коммерческих помещений. </span>
+            <span>Аппараты для охлаждения жидкости.</span>
         </div>
         <div class="c-products-item">
             <div class="c-pro-head">
@@ -272,7 +272,7 @@
                 <img src="/assets_cvl/img/landing/cold/logo6.png">
             </div>
             <hr>
-            <span>Элементы системы трубопровода для отвода жидкости или конденсата. </span>
+            <span> </span>
         </div>
     </div>
     <div class="c-products mobile-visible">
