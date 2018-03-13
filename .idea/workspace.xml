@@ -54,8 +54,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="319">
-                  <caret line="308" column="68" lean-forward="false" selection-start-line="308" selection-start-column="68" selection-end-line="308" selection-end-column="68" />
+                <state relative-caret-position="149">
+                  <caret line="417" column="202" lean-forward="false" selection-start-line="417" selection-start-column="202" selection-end-line="417" selection-end-column="202" />
                   <folding />
                 </state>
               </provider>
@@ -64,8 +64,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="379">
-                  <caret line="623" column="63" lean-forward="false" selection-start-line="623" selection-start-column="63" selection-end-line="623" selection-end-column="63" />
+                <state relative-caret-position="217">
+                  <caret line="330" column="223" lean-forward="false" selection-start-line="330" selection-start-column="40" selection-end-line="330" selection-end-column="223" />
                   <folding />
                 </state>
               </provider>
@@ -198,13 +198,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>zvonok</find>
-      <find>name2</find>
-      <find>name</find>
-      <find>Заказать звонок</find>
-      <find>zvon</find>
-      <find>холодоснаб</find>
-      <find>отводы</find>
       <find>за 16</find>
       <find>частным</find>
       <find>вашкй</find>
@@ -228,6 +221,13 @@
       <find>над ваши</find>
       <find>на ваш</find>
       <find>жидкотопливные</find>
+      <find>традиц</find>
+      <find>насосное оборудование</find>
+      <find>насос</find>
+      <find>контрольно-из</find>
+      <find>контроль</find>
+      <find>теплои</find>
+      <find>емкости</find>
     </findStrings>
     <replaceStrings>
       <replace>Topsoc</replace>
@@ -520,14 +520,7 @@
       <workItem from="1520417704314" duration="1231000" />
       <workItem from="1520852935082" duration="11508000" />
       <workItem from="1520906584203" duration="2937000" />
-      <workItem from="1520927115770" duration="7303000" />
-    </task>
-    <task id="LOCAL-00026" summary="нижние блоки">
-      <created>1520854895750</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1520854895750</updated>
+      <workItem from="1520927115770" duration="7744000" />
     </task>
     <task id="LOCAL-00027" summary="Commit">
       <created>1520855350761</created>
@@ -865,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520938460394</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="text heating">
+      <created>1520938677197</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1520938677197</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="458060000" />
+    <option name="totallyTimeSpent" value="458501000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1337,14 +1337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="623" column="63" lean-forward="false" selection-start-line="623" selection-start-column="63" selection-end-line="623" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1353,10 +1345,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="330" column="223" lean-forward="false" selection-start-line="330" selection-start-column="40" selection-end-line="330" selection-end-column="223" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/heating/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="308" column="68" lean-forward="false" selection-start-line="308" selection-start-column="68" selection-end-line="308" selection-end-column="68" />
+        <state relative-caret-position="149">
+          <caret line="417" column="202" lean-forward="false" selection-start-line="417" selection-start-column="202" selection-end-line="417" selection-end-column="202" />
           <folding />
         </state>
       </provider>
