@@ -64,8 +64,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="200">
-                  <caret line="300" column="127" lean-forward="false" selection-start-line="300" selection-start-column="127" selection-end-line="300" selection-end-column="127" />
+                <state relative-caret-position="166">
+                  <caret line="570" column="102" lean-forward="false" selection-start-line="570" selection-start-column="102" selection-end-line="570" selection-end-column="102" />
                   <folding />
                 </state>
               </provider>
@@ -520,14 +520,7 @@
       <workItem from="1520417704314" duration="1231000" />
       <workItem from="1520852935082" duration="11508000" />
       <workItem from="1520906584203" duration="2937000" />
-      <workItem from="1520927115770" duration="5318000" />
-    </task>
-    <task id="LOCAL-00018" summary="changes to fix">
-      <created>1520337858635</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1520337858635</updated>
+      <workItem from="1520927115770" duration="5349000" />
     </task>
     <task id="LOCAL-00019" summary="Исправление">
       <created>1520338106729</created>
@@ -865,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520936572013</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="text water">
+      <created>1520936684101</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1520936684101</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="456075000" />
+    <option name="totallyTimeSpent" value="456106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1354,8 +1354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/watersupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="300" column="127" lean-forward="false" selection-start-line="300" selection-start-column="127" selection-end-line="300" selection-end-column="127" />
+        <state relative-caret-position="166">
+          <caret line="570" column="102" lean-forward="false" selection-start-line="570" selection-start-column="102" selection-end-line="570" selection-end-column="102" />
           <folding />
         </state>
       </provider>
