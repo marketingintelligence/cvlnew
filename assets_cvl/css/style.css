@@ -95,7 +95,10 @@ body span {
     background-image: url(../img/landing/input2.png);
     background-size: 100% 100%;
 }
-
+.call-window-box2 input.email {
+    background-image: url(../img/landing/input2.png);
+    background-size: 100% 100%;
+}
 .call-window-box2 input {
     width: 80%;
     background-color: transparent;
@@ -175,7 +178,7 @@ body span {
 
 #logo-3 {
     width: 30%;
-    background-image: url("../img/l.png");
+    background-image: url("../img/CVL_logo_L.png");
     background-size: 100% 100%;
     visibility: hidden;
 }

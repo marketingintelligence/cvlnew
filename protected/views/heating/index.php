@@ -1,4 +1,21 @@
+<div class="center modal">
+    <div class="call-window-box2">
+        <div class="close-button"></div>
+        <div class="before">
+            <p>Узнайте, <br>как сократить расходы<br>на отопление</p>
+            <input class="name" id="down_name" name="name" type="text" placeholder="Имя">
+            <input class="email" id="email" name="email" type="text" placeholder="E-mail">
+            <button  id="zakaz-btn">
+                <div class="call-items-1"></div>
+                <div class="call-items-2"></div>
+                <div class="call-items-3"></div>
+                <span id="downl-heating">Скачать совет</span>
+            </button>
+        </div>
+    </div>
+</div>
 <body id="ventilation">
+<section id="op">
 <section id="h-home">
     <div class="header-menu active">
         <div class="mobile-call-box">
@@ -580,9 +597,9 @@
         <h1>Узнайте, как сократить расходы <br>на отопление</h1>
         <hr class="line-2">
         <div class="download-container">
-            <a href="/assets_cvl/img/downl/отопление.jpg" download> <button class="download blick">Скачать советы<img src="/assets_cvl/img/landing/advice.png"></button></a>
+            <a <!--href="/assets_cvl/img/downl/отопление.jpg" download--> <button class="download blick">Скачать советы<img src="/assets_cvl/img/landing/advice.png"></button></a>
         </div>
-        <a href="/assets_cvl/img/downl/отопление.jpg" download><button class="mobile-visible">Скачать советы</button></a>
+        <a <!--href="/assets_cvl/img/downl/отопление.jpg" download--><button class="mobile-visible">Скачать советы</button></a>
     </div>
 </div>
 <div class="w-partners heating-p">
@@ -992,6 +1009,7 @@
             <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJd2mdYio1-EIR2TGJMt0BWTg&key=AIzaSyDFSYhkpy2iPNiK9cX84xj-tEDay4ASwgc" allowfullscreen></iframe>
         </div>
     </div>
+</section>
 </section>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
 <script src="/assets_cvl/js/jQuery.js"></script>

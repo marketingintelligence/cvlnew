@@ -14,6 +14,129 @@ $(window).mousemove(function(e) {
 });
 $(document).ready(function() {
 
+    $(".download-container button").on("click",function () {
+        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
+            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+        })
+    });
+    $('body').on("click","#downl-heating",function () {
+        var name = $("#down_name").val();
+        var email = $("#email").val();
+        var ftype = "Отопление";
+        var error = 0;
+        if (IsEmail(email) == false) {
+            $(".email").css("background", "#D66161");
+            error++;
+        }
+        if (error == 0) {
+            Sendadvice(name, email,ftype);
+        }
+    })
+    function IsEmail(email) {
+        var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        if (!regex.test(email)) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+    function Sendadvice(name,email, ftype) {
+        $.ajax({
+            type: "POST",
+            url: "../mailadvice.php",
+            data: {
+                name: name,
+                phone: email,
+                ftype: ftype
+            },
+            success: function(data) {
+                if(ftype =="Отопление" ){
+                    window.location.href = '/assets_cvl/img/downl/отопление.jpg';
+                }
+                if(ftype =="Водоснабжение" ){
+                    window.location.href = '/assets_cvl/img/downl/водоснабжение.jpg';
+                }
+                if(ftype =="Вентиляция" ){
+                    window.location.href = '/assets_cvl/img/downl/вентиляция.jpg';
+                }
+                if(ftype =="Холодоснабжение" ){
+                    window.location.href = '/assets_cvl/img/downl/холодоснабжение1.jpg';
+                }
+                $('.before').animate({
+                    opacity: '0',
+                    width: '80%'
+                }, 500, function() {
+                    $('.call-window-box2').append("<div class='transform' style='position:absolute;top:50%; left: 50%;width: 100%; text-align: center;'>Спасибо за скачивание<br> совета!<br></div>")
+                });
+            }
+        });
+    }
+    $(".mobile-visible").on("click",function () {
+        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
+            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+        })
+    });
+
+    $(".w-download-advice .blick").on("click",function () {
+        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
+            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+        })
+    });
+
+    $('body').on("click","#downl-water",function () {
+        var name = $("#down_name").val();
+        var email = $("#email").val();
+        var ftype = "Водоснабжение";
+        var error = 0;
+        if (IsEmail(email) == false) {
+            $(".email").css("background", "#D66161");
+            error++;
+        }
+        if (error == 0) {
+            Sendadvice(name, email,ftype);
+        }
+    });
+
+    $(".download-advice .blick").on("click",function () {
+        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
+            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+        })
+    });
+
+    $('body').on("click","#downl-vent",function () {
+        var name = $("#down_name").val();
+        var email = $("#email").val();
+        var ftype = "Вентиляция";
+        var error = 0;
+        if (IsEmail(email) == false) {
+            $(".email").css("background", "#D66161");
+            error++;
+        }
+        if (error == 0) {
+            Sendadvice(name, email,ftype);
+        }
+    });
+
+    $(".c-downolad-item .mobile-none2").on("click",function () {
+        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
+            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+        })
+    });
+
+    $('body').on("click","#downl-cold",function () {
+        var name = $("#down_name").val();
+        var email = $("#email").val();
+        var ftype = "Холодоснабжение";
+        var error = 0;
+        if (IsEmail(email) == false) {
+            $(".email").css("background", "#D66161");
+            error++;
+        }
+        if (error == 0) {
+            Sendadvice(name, email,ftype);
+        }
+    });
+
     var scrolled = 0;
     $("#s1").on("click", function() {
         scrolled = scrolled + 300;

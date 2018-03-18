@@ -1,4 +1,21 @@
+<div class="center modal">
+    <div class="call-window-box2">
+        <div class="close-button"></div>
+        <div class="before">
+            <p>Узнайте, <br>как обогреть большое помещение<br>без значительных затрат</p>
+            <input class="name" id="down_name" name="name" type="text" placeholder="Имя">
+            <input class="email" id="email" name="email" type="text" placeholder="E-mail">
+            <button  id="zakaz-btn">
+                <div class="call-items-1"></div>
+                <div class="call-items-2"></div>
+                <div class="call-items-3"></div>
+                <span id="downl-vent">Скачать совет</span>
+            </button>
+        </div>
+    </div>
+</div>
 <body id="ventilation">
+<section id="op">
 <section id="l-home" class="v-responsive">
     <div class="sky">
         <div class="clouds_two"></div>
@@ -407,7 +424,7 @@
         </div>
         <div class="download-advice">
             <h2>Как обогреть большое помещение без значительных затрат? </h2>
-            <a href="/assets_cvl/img/downl/вентиляция.jpg" download><button class="blick"><img src="/assets_cvl/img/landing/advice.png"> Скачать советы</button></a>
+            <a <!--href="/assets_cvl/img/downl/вентиляция.jpg" download--><button class="blick"><img src="/assets_cvl/img/landing/advice.png"> Скачать советы</button></a>
         </div>
     </div>
 
@@ -844,6 +861,7 @@
             <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJd2mdYio1-EIR2TGJMt0BWTg&key=AIzaSyDFSYhkpy2iPNiK9cX84xj-tEDay4ASwgc" allowfullscreen></iframe>
         </div>
     </div>
+</section>
 </section>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
 <script src="/assets_cvl/js/jQuery.js"></script>

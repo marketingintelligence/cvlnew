@@ -1,4 +1,21 @@
+<div class="center modal">
+    <div class="call-window-box2">
+        <div class="close-button"></div>
+        <div class="before">
+            <p>Узнайте, <br>как обеспечить оптимальный<br>температурный режим в помощении</p>
+            <input class="name" id="down_name" name="name" type="text" placeholder="Имя">
+            <input class="email" id="email" name="email" type="text" placeholder="E-mail">
+            <button  id="zakaz-btn">
+                <div class="call-items-1"></div>
+                <div class="call-items-2"></div>
+                <div class="call-items-3"></div>
+                <span id="downl-cold">Скачать совет</span>
+            </button>
+        </div>
+    </div>
+</div>
 <body id="ventilation">
+<section id="op">
 <section id="c-home">
     <div class="header-menu active">
         <div class="mobile-call-box">
@@ -485,8 +502,8 @@
     <div class="c-downolad">
         <div class="c-downolad-item">
             <h3>Как обеспечить <br>оптимальный <br>температурный<br> режим в помещении?</h3>
-            <a href="/assets_cvl/img/downl/холодоснабжение1.jpg" download class="mobile-none2"><button class="revealOnScroll" data-animation="fadeInRight" data-timeout="500"><i></i>Узнать</button></a>
-            <a href="/assets_cvl/img/downl/холодоснабжение1.jpg" download class="mobile-visible"><button>Узнать</button></a>
+            <a class="mobile-none2"><button class="revealOnScroll" data-animation="fadeInRight" data-timeout="500"><i></i>Узнать</button></a>
+            <a class="mobile-visible"><button>Узнать</button></a>
         </div>
         <div class="c-downolad-item">
             <div class="c-downolad-item-img">
@@ -981,6 +998,7 @@
             <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJd2mdYio1-EIR2TGJMt0BWTg&key=AIzaSyDFSYhkpy2iPNiK9cX84xj-tEDay4ASwgc" allowfullscreen></iframe>
         </div>
     </div>
+</section>
 </section>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
 <script src="/assets_cvl/js/jQuery.js"></script>
