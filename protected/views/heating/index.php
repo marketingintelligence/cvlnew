@@ -599,7 +599,7 @@
         <div class="download-container">
             <a <!--href="/assets_cvl/img/downl/отопление.jpg" download--> <button class="download blick">Скачать советы<img src="/assets_cvl/img/landing/advice.png"></button></a>
         </div>
-        <a <!--href="/assets_cvl/img/downl/отопление.jpg" download--><button class="mobile-visible">Скачать советы</button></a>
+        <a <!--href="/assets_cvl/img/downl/отопление.jpg" download--><button id="heat-adv" class="mobile-visible">Скачать советы</button></a>
     </div>
 </div>
 <div class="w-partners heating-p">

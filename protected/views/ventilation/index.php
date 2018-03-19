@@ -5,7 +5,7 @@
             <p>Узнайте, <br>как обогреть большое помещение<br>без значительных затрат</p>
             <input class="name" id="down_name" name="name" type="text" placeholder="Имя">
             <input class="email" id="email" name="email" type="text" placeholder="E-mail">
-            <button  id="zakaz-btn">
+            <button  id="zakaz-btn-vent">
                 <div class="call-items-1"></div>
                 <div class="call-items-2"></div>
                 <div class="call-items-3"></div>

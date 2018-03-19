@@ -14,11 +14,11 @@ $(window).mousemove(function(e) {
 });
 $(document).ready(function() {
 
-    $(".download-container button").on("click",function () {
-        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
-            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
-        })
-    });
+     $(".download-container button").on("click",function () {
+         $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
+             $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+         })
+     });
     $('body').on("click","#downl-heating",function () {
         var name = $("#down_name").val();
         var email = $("#email").val();
@@ -71,14 +71,20 @@ $(document).ready(function() {
             }
         });
     }
-    $(".mobile-visible").on("click",function () {
+   /* $(".mobile-visible").on("click",function () {
         $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
-    });
+    });*/
 
-    $(".w-download-advice .blick").on("click",function () {
+    $(".w-download-advice #water-adv").on("click",function () {
         $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
     });
-    $(".download-advice .blick").on("click",function () {
+    $(".download-advice button").on("click",function () {
+        $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+    });
+    $(".c-downolad-item #cold-adv").on("click",function () {
+        $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+    });
+    $("#heat-adv").on("click",function () {
         $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
     });
 
@@ -96,11 +102,6 @@ $(document).ready(function() {
         }
     });
 
-    $(".download-advice .blick").on("click",function () {
-        /*$('#op').not('.modal').css('opacity', '0.5').promise().done(function() {*/
-            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
-        /*})*/
-    });
 
     $('body').on("click","#downl-vent",function () {
         var name = $("#down_name").val();

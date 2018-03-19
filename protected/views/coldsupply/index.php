@@ -558,8 +558,8 @@
     <div class="c-downolad">
         <div class="c-downolad-item">
             <h3>Как обеспечить <br>оптимальный <br>температурный<br> режим в помещении?</h3>
-            <a href="#" class="mobile-none2"><button class="revealOnScroll" data-animation="fadeInRight" data-timeout="500"><i></i>Узнать</button></a>
-            <a href="#" class="mobile-visible"><button>Узнать</button></a>
+            <a class="mobile-none2"><button class="revealOnScroll" data-animation="fadeInRight" data-timeout="500"><i></i>Узнать</button></a>
+            <a class="mobile-visible"><button id="cold-adv">Узнать</button></a>
         </div>
         <div class="c-downolad-item">
             <div class="c-downolad-item-img">
