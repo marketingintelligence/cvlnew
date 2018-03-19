@@ -62,11 +62,11 @@ $(document).ready(function() {
                 if(ftype =="Холодоснабжение" ){
                     window.location.href = '../download4.php';
                 }
-                $('.before').animate({
+                $('#before-advice').animate({
                     opacity: '0',
                     width: '80%'
                 }, 500, function() {
-                    $('.call-window-box2').append("<div class='transform' style='position:absolute;top:50%; left: 50%;width: 100%; text-align: center;'>Спасибо за скачивание<br> совета!<br></div>")
+                    $('#call-advice-box').append("<div class='transform' style='position:absolute;top:50%; left: 50%;width: 100%; text-align: center;'>Спасибо за скачивание<br> совета!<br></div>")
                 });
             }
         });
