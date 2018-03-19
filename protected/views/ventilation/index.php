@@ -1,7 +1,7 @@
 <div class="center modal">
     <div class="call-window-box2">
         <div class="close-button"></div>
-        <div class="before">
+        <div class="before" id="before-advice">
             <p>Узнайте, <br>как обогреть большое помещение<br>без значительных затрат</p>
             <input class="name" id="down_name" name="name" type="text" placeholder="Имя">
             <input class="email" id="email" name="email" type="text" placeholder="E-mail">
