@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="feedback">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets_cvl/img/hover_img/chillers.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets_cvl/img/hover_img/nasos.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets_cvl/img/landing/heating/fon-heating.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/assets_cvl/css/landing.css" afterPath="$PROJECT_DIR$/assets_cvl/css/landing.css" />
       <change beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
@@ -28,7 +27,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5894454">
+    <splitter split-orientation="horizontal" split-proportion="0.54382825">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
@@ -67,8 +66,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="188">
-                  <caret line="427" column="14" lean-forward="true" selection-start-line="427" selection-start-column="14" selection-end-line="427" selection-end-column="14" />
+                <state relative-caret-position="307">
+                  <caret line="425" column="67" lean-forward="false" selection-start-line="425" selection-start-column="67" selection-end-line="425" selection-end-column="67" />
                   <folding />
                 </state>
               </provider>
@@ -125,8 +124,8 @@
           <file leaf-file-name="landing.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets_cvl/css/landing.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="463">
-                  <caret line="348" column="85" lean-forward="false" selection-start-line="348" selection-start-column="85" selection-end-line="348" selection-end-column="85" />
+                <state relative-caret-position="276">
+                  <caret line="307" column="0" lean-forward="false" selection-start-line="307" selection-start-column="0" selection-end-line="307" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -439,7 +438,15 @@
               <item name="backupcvl.zu" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets_cvl" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="hover_img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="landing" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="backupcvl.zu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backupcvl.zu" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets_cvl" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="landing" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="heating" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="backupcvl.zu" type="b2602c69:ProjectViewProjectNode" />
@@ -481,11 +488,11 @@
       <recent name="C:\OSPanel\domains\cvlend.zu\upload\Employee\full" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\backupcvl.zu\assets_cvl\img\landing\heating" />
       <recent name="C:\OSPanel\domains\backupcvl.zu\assets_cvl\img\hover_img" />
       <recent name="C:\OSPanel\domains\backupcvl.zu" />
       <recent name="C:\OSPanel\domains\backupcvl.zu\assets_cvl\img" />
       <recent name="C:\OSPanel\domains\backupcvl.zu\protected\views\layouts" />
-      <recent name="C:\OSPanel\domains\thebestcvl\assets_cvl\img\hover_img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -550,14 +557,7 @@
       <workItem from="1520998304166" duration="874000" />
       <workItem from="1521394996326" duration="10338000" />
       <workItem from="1521431554301" duration="10235000" />
-      <workItem from="1521448457530" duration="233000" />
-    </task>
-    <task id="LOCAL-00043" summary="text">
-      <created>1520863179879</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1520863179879</updated>
+      <workItem from="1521448457530" duration="1130000" />
     </task>
     <task id="LOCAL-00044" summary="text">
       <created>1520863342686</created>
@@ -895,11 +895,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521443582502</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="images">
+      <created>1521448755792</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1521448755792</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="482455000" />
+    <option name="totallyTimeSpent" value="483352000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1011,6 +1018,7 @@
     <MESSAGE value="text water" />
     <MESSAGE value="text heating" />
     <MESSAGE value="text" />
+    <MESSAGE value="images" />
     <MESSAGE value="feedback" />
     <option name="LAST_COMMIT_MESSAGE" value="feedback" />
   </component>
@@ -1388,16 +1396,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets_cvl/css/landing.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="348" column="85" lean-forward="false" selection-start-line="348" selection-start-column="85" selection-end-line="348" selection-end-column="85" />
+        <state relative-caret-position="276">
+          <caret line="307" column="0" lean-forward="false" selection-start-line="307" selection-start-column="0" selection-end-line="307" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/ventilation/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="427" column="14" lean-forward="true" selection-start-line="427" selection-start-column="14" selection-end-line="427" selection-end-column="14" />
+        <state relative-caret-position="307">
+          <caret line="425" column="67" lean-forward="false" selection-start-line="425" selection-start-column="67" selection-end-line="425" selection-end-column="67" />
           <folding />
         </state>
       </provider>
