@@ -128,6 +128,7 @@
     #about .container{position:relative;display:block;width:89%;left:5%;top:6%;text-align:left;}
     .big-text{width:100%;}
     .container span{font-size:25px;}
+    .container ul{font-size:25px;}
     .small-text{width:100%;}
     #about .container h2{margin-top:20px;}
     .mobile-center{text-align:center;}
@@ -305,7 +306,9 @@
     .mobile-social .social{position:relative;height:81%;width:100%;text-align:center;margin:0 auto;}
     .m-arrows{width:4%;padding:16%;top:30%;left:33%;}
 }
-@media screen and (max-width:650px){.container span{font-size:12px;}
+@media screen and (max-width:650px){
+    .container span{font-size:12px;}
+    .container ul{font-size:12px;}
     #contacts .container span{font-size:2.9vw;}
     .navigation{width:36%;height:10%;right:1%;top:-1%;z-index:1;}
     .about-item h4{font-size:11px;}
@@ -325,6 +328,7 @@
     .ar-heating img{margin-right:19%;}
     ul.menu-container{width:36%;top:7%;}
     .container span{font-size:11px;}
+    .container ul{font-size:11px;}
     #about .container h2{margin-top:5px;}
     .carusel h2{margin-bottom:5px;}
     .carusel{width:95%;top:9%;left:2.5%;}
