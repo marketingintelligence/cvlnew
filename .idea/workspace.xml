@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="feedback">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets_cvl/img/hover_img/chillers.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets_cvl/img/hover_img/nasos.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets_cvl/css/responsive.css" afterPath="$PROJECT_DIR$/assets_cvl/css/responsive.css" />
-      <change beforePath="$PROJECT_DIR$/assets_cvl/js/script.js" afterPath="$PROJECT_DIR$/assets_cvl/js/script.js" />
+      <change beforePath="$PROJECT_DIR$/assets_cvl/css/landing.css" afterPath="$PROJECT_DIR$/assets_cvl/css/landing.css" />
       <change beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,13 +28,13 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5802948">
+    <splitter split-orientation="horizontal" split-proportion="0.5894454">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="23460">
+                <state relative-caret-position="24480">
                   <caret line="1440" column="6" lean-forward="false" selection-start-line="1425" selection-start-column="0" selection-end-line="1440" selection-end-column="6" />
                   <folding>
                     <marker date="1520940155271" expanded="true" signature="42676:42810" ph="..." />
@@ -97,7 +98,7 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="374">
@@ -114,8 +115,18 @@
           <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets_cvl/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
+                <state relative-caret-position="0">
                   <caret line="0" column="169" lean-forward="false" selection-start-line="0" selection-start-column="169" selection-end-line="0" selection-end-column="169" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="landing.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assets_cvl/css/landing.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="463">
+                  <caret line="348" column="85" lean-forward="false" selection-start-line="348" selection-start-column="85" selection-end-line="348" selection-end-column="85" />
                   <folding />
                 </state>
               </provider>
@@ -124,7 +135,7 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="358">
+                <state relative-caret-position="48620">
                   <caret line="2860" column="38" lean-forward="false" selection-start-line="2860" selection-start-column="38" selection-end-line="2860" selection-end-column="38" />
                   <folding />
                 </state>
@@ -134,7 +145,7 @@
           <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets_cvl/css/responsive.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
+                <state relative-caret-position="408">
                   <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
                   <folding />
                 </state>
@@ -144,7 +155,7 @@
           <file leaf-file-name="landing-responsive.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets_cvl/css/landing-responsive.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="52">
+                <state relative-caret-position="5967">
                   <caret line="351" column="22" lean-forward="false" selection-start-line="351" selection-start-column="22" selection-end-line="351" selection-end-column="22" />
                   <folding />
                 </state>
@@ -154,7 +165,7 @@
           <file leaf-file-name="mailadvice.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mailadvice.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="117">
+                <state relative-caret-position="306">
                   <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
                   <folding>
                     <marker date="1521437737093" expanded="true" signature="569:807" ph="..." />
@@ -187,16 +198,6 @@
           </file>
           <file leaf-file-name="download3.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/download3.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="download4.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/download4.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="17">
                   <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
@@ -343,7 +344,6 @@
         <option value="$PROJECT_DIR$/protected/views/layouts/m_header.php" />
         <option value="$PROJECT_DIR$/protected/views/layouts/modal.php" />
         <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
-        <option value="$PROJECT_DIR$/assets_cvl/css/landing.css" />
         <option value="$PROJECT_DIR$/mail.php" />
         <option value="$PROJECT_DIR$/protected/views/site/index.php" />
         <option value="$PROJECT_DIR$/protected/config/main.php" />
@@ -360,6 +360,7 @@
         <option value="$PROJECT_DIR$/assets_cvl/css/style.css" />
         <option value="$PROJECT_DIR$/assets_cvl/css/responsive.css" />
         <option value="$PROJECT_DIR$/assets_cvl/js/script.js" />
+        <option value="$PROJECT_DIR$/assets_cvl/css/landing.css" />
       </list>
     </option>
   </component>
@@ -408,7 +409,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -439,7 +439,7 @@
               <item name="backupcvl.zu" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets_cvl" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="downl" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hover_img" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="backupcvl.zu" type="b2602c69:ProjectViewProjectNode" />
@@ -462,6 +462,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -472,19 +473,19 @@
     <property name="SearchEverywhereHistoryKey" value="dropdown&#9;FILE&#9;file://C:/OSPanel/domains/cvl.zu/protected/extensions/bootstrap/widgets/BootDropdown.php&#10;drop&#9;null&#9;null&#10;подвал&#9;null&#9;null&#10;вверхнее меню&#9;null&#9;null&#10;parentcategory&#9;null&#9;null&#10;bootstrap&#9;FILE&#9;file://C:/OSPanel/domains/kairat.zu/protected/modules/timesafe/views/layouts/bootstrap.php" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\OSPanel\domains\backupcvl.zu" />
-      <recent name="C:\OSPanel\domains\backupcvl.zu\assets_cvl\img" />
-      <recent name="C:\OSPanel\domains\backupcvl.zu\assets_cvl\img\hover_img" />
-      <recent name="C:\OSPanel\domains\backupcvl.zu\protected\views\layouts" />
-      <recent name="C:\OSPanel\domains\thebestcvl\assets_cvl\img\hover_img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OSPanel\domains\cvlend.zu\assets_cvl\img\partnerslogo" />
       <recent name="C:\OSPanel\domains\cvlend.zu\assets_cvl\img\downl" />
       <recent name="C:\OSPanel\domains\cvlend.zu\assets_cvl\img" />
       <recent name="C:\OSPanel\domains\cvlend.zu\assets\img" />
       <recent name="C:\OSPanel\domains\cvlend.zu\upload\Employee\full" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\backupcvl.zu\assets_cvl\img\hover_img" />
+      <recent name="C:\OSPanel\domains\backupcvl.zu" />
+      <recent name="C:\OSPanel\domains\backupcvl.zu\assets_cvl\img" />
+      <recent name="C:\OSPanel\domains\backupcvl.zu\protected\views\layouts" />
+      <recent name="C:\OSPanel\domains\thebestcvl\assets_cvl\img\hover_img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -548,14 +549,8 @@
       <workItem from="1520927115770" duration="10018000" />
       <workItem from="1520998304166" duration="874000" />
       <workItem from="1521394996326" duration="10338000" />
-      <workItem from="1521431554301" duration="10081000" />
-    </task>
-    <task id="LOCAL-00042" summary="text">
-      <created>1520863162380</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1520863162380</updated>
+      <workItem from="1521431554301" duration="10235000" />
+      <workItem from="1521448457530" duration="233000" />
     </task>
     <task id="LOCAL-00043" summary="text">
       <created>1520863179879</created>
@@ -893,11 +888,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521441375518</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="feedback">
+      <created>1521443582502</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1521443582502</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="482068000" />
+    <option name="totallyTimeSpent" value="482455000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -912,17 +914,17 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02496218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="83" y="104" width="352" height="631" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15431164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="83" y="104" width="352" height="631" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.02866779" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.02866779" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27575278" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1215,15 +1217,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1802">
           <caret line="106" column="51" lean-forward="false" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets_cvl/css/landing.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="95" lean-forward="false" selection-start-line="40" selection-start-column="95" selection-end-line="40" selection-end-column="95" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1231,7 +1224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1305,7 +1297,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mailadvice.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
+        <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <marker date="1521437737093" expanded="true" signature="569:807" ph="..." />
@@ -1333,7 +1325,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets_cvl/css/landing-responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
+        <state relative-caret-position="5967">
           <caret line="351" column="22" lean-forward="false" selection-start-line="351" selection-start-column="22" selection-end-line="351" selection-end-column="22" />
           <folding />
         </state>
@@ -1349,7 +1341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="48620">
           <caret line="2860" column="38" lean-forward="false" selection-start-line="2860" selection-start-column="38" selection-end-line="2860" selection-end-column="38" />
           <folding />
         </state>
@@ -1357,7 +1349,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23460">
+        <state relative-caret-position="24480">
           <caret line="1440" column="6" lean-forward="false" selection-start-line="1425" selection-start-column="0" selection-end-line="1440" selection-end-column="6" />
           <folding>
             <marker date="1520940155271" expanded="true" signature="42676:42810" ph="..." />
@@ -1368,7 +1360,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets_cvl/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="408">
           <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding />
         </state>
@@ -1376,7 +1368,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets_cvl/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="0">
           <caret line="0" column="169" lean-forward="false" selection-start-line="0" selection-start-column="169" selection-end-line="0" selection-end-column="169" />
           <folding />
         </state>
@@ -1391,6 +1383,14 @@
             <marker date="1521443523991" expanded="true" signature="7861:7930" ph="..." />
             <marker date="1521443523991" expanded="true" signature="8509:8578" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_cvl/css/landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="348" column="85" lean-forward="false" selection-start-line="348" selection-start-column="85" selection-end-line="348" selection-end-column="85" />
+          <folding />
         </state>
       </provider>
     </entry>

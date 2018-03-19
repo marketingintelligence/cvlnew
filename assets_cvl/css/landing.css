@@ -338,7 +338,7 @@ img.cloud-3{width:26%;position:absolute;right:9%;top:27.5%;background-color:tran
 .c-products-item:first-child{background-image:url("../img/landing/cold/p1.png");background-size:100% 100%;}
 .c-products-item:first-child:hover{background-image:url("../img/hover_img/1.jpg");}
 .c-products-item:nth-child(2){background-image:url("../img/landing/cold/p2.png");background-size:100% 100%;}
-.c-products-item:nth-child(2):hover{background-image:url("../img/hover_img/2.jpg");}
+.c-products-item:nth-child(2):hover{background-image:url("../img/hover_img/chillers.jpg");}
 .c-products-item:last-child{background-image:url("../img/landing/cold/p3.png");background-size:100% 100%;}
 .c-products-item:last-child:hover{background-image:url("../img/hover_img/3.jpg");}
 .c-products-item.in:first-child{background-image:url("../img/landing/cold/p3.png");}
@@ -346,7 +346,7 @@ img.cloud-3{width:26%;position:absolute;right:9%;top:27.5%;background-color:tran
 .c-products-item.in:nth-child(2){background-image:url("../img/landing/cold/p1.png");background-size:100% 100%;}
 .c-products-item.in:nth-child(2):hover{background-image:url("../img/hover_img/5.jpg");}
 .c-products-item.in:last-child{background-image:url("../img/landing/cold/p2.png");background-size:100% 100%;}
-.c-products-item.in:last-child:hover{background-image:url("../img/hover_img/6.jpg");background-size:100% 100%;}
+.c-products-item.in:last-child:hover{background-image:url("../img/hover_img/nasos.jpg");background-size:100% 100%;}
 .c-call{z-index:1;padding-top:5%;position:relative;}
 .c-call .big-call{margin-bottom:1%;color:#FFFFFF;}
 .c-call .big-call h2{color:#dd2023;text-shadow:0px 0px 14px #FFFFFF;}
