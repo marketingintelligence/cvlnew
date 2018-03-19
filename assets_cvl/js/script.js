@@ -78,6 +78,9 @@ $(document).ready(function() {
     $(".w-download-advice .blick").on("click",function () {
         $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
     });
+    $(".download-advice .blick").on("click",function () {
+        $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+    });
 
     $('body').on("click","#downl-water",function () {
         var name = $("#down_name").val();
@@ -94,9 +97,9 @@ $(document).ready(function() {
     });
 
     $(".download-advice .blick").on("click",function () {
-        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
+        /*$('#op').not('.modal').css('opacity', '0.5').promise().done(function() {*/
             $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
-        })
+        /*})*/
     });
 
     $('body').on("click","#downl-vent",function () {
