@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="">
+    <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="feedback">
+      <change beforePath="" afterPath="$PROJECT_DIR$/download.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/download2.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/download3.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/download4.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets_cvl/img/downl/вентиляция.jpg" afterPath="$PROJECT_DIR$/assets_cvl/img/downl/vent.jpg" />
+      <change beforePath="$PROJECT_DIR$/assets_cvl/img/downl/водоснабжение.jpg" afterPath="$PROJECT_DIR$/assets_cvl/img/downl/water.jpg" />
+      <change beforePath="$PROJECT_DIR$/assets_cvl/img/downl/отопление.jpg" afterPath="$PROJECT_DIR$/assets_cvl/img/downl/otopleniye.jpg" />
+      <change beforePath="$PROJECT_DIR$/assets_cvl/img/downl/холодоснабжение1.jpg" afterPath="$PROJECT_DIR$/assets_cvl/img/downl/cold.jpg" />
+      <change beforePath="$PROJECT_DIR$/assets_cvl/js/script.js" afterPath="$PROJECT_DIR$/assets_cvl/js/script.js" />
       <change beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
-      <change beforePath="$PROJECT_DIR$/protected/views/heating/index.php" afterPath="$PROJECT_DIR$/protected/views/heating/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +34,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6950673">
+    <splitter split-orientation="horizontal" split-proportion="0.1">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
@@ -96,36 +104,6 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="landing.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assets_cvl/css/landing.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="680">
-                  <caret line="40" column="95" lean-forward="false" selection-start-line="40" selection-start-column="95" selection-end-line="40" selection-end-column="95" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="landing-responsive.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assets_cvl/css/landing-responsive.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="9537">
-                  <caret line="561" column="0" lean-forward="false" selection-start-line="560" selection-start-column="0" selection-end-line="561" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1802">
-                  <caret line="106" column="51" lean-forward="false" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="modal.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/protected/views/layouts/modal.php">
               <provider selected="true" editor-type-id="text-editor">
@@ -149,12 +127,12 @@
           <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1071">
-                  <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+                <state relative-caret-position="345">
+                  <caret line="62" column="56" lean-forward="false" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
                   <folding>
-                    <marker date="1521415245135" expanded="true" signature="2601:2670" ph="..." />
-                    <marker date="1521415245135" expanded="true" signature="7942:8011" ph="..." />
-                    <marker date="1521415245135" expanded="true" signature="8590:8659" ph="..." />
+                    <marker date="1521435028909" expanded="true" signature="2512:2581" ph="..." />
+                    <marker date="1521435028909" expanded="true" signature="7853:7922" ph="..." />
+                    <marker date="1521435028909" expanded="true" signature="8501:8570" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -173,7 +151,7 @@
           <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets_cvl/css/responsive.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1258">
+                <state relative-caret-position="136">
                   <caret line="74" column="84" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="84" />
                   <folding />
                 </state>
@@ -183,13 +161,53 @@
           <file leaf-file-name="mailadvice.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mailadvice.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="16" column="60" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="60" />
+                <state relative-caret-position="202">
+                  <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
                   <folding>
-                    <marker date="1521415277116" expanded="true" signature="569:807" ph="..." />
-                    <marker date="1521415277116" expanded="true" signature="579:662" ph="..." />
-                    <marker date="1521415277116" expanded="true" signature="672:798" ph="..." />
+                    <marker date="1521435936265" expanded="true" signature="569:807" ph="..." />
+                    <marker date="1521435936265" expanded="true" signature="579:662" ph="..." />
+                    <marker date="1521435936265" expanded="true" signature="672:798" ph="..." />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="download.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/download.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="download2.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/download2.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="download3.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/download3.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="download4.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/download4.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -298,10 +316,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/protected/modules/timesafe/views/pages/create.php" />
-        <option value="$PROJECT_DIR$/protected/modules/timesafe/views/pages/list.php" />
-        <option value="$PROJECT_DIR$/protected/modules/timesafe/views/pages/update.php" />
-        <option value="$PROJECT_DIR$/protected/modules/timesafe/views/pages/_form.php" />
         <option value="$PROJECT_DIR$/assets_cvl/js/jQuery.js" />
         <option value="$PROJECT_DIR$/assets_cvl/js/main.js" />
         <option value="$PROJECT_DIR$/protected/controllers/ColdsupplyController.php" />
@@ -345,10 +359,14 @@
         <option value="$PROJECT_DIR$/assets_cvl/css/style.css" />
         <option value="$PROJECT_DIR$/protected/views/watersupply/index.php" />
         <option value="$PROJECT_DIR$/protected/views/ventilation/index.php" />
-        <option value="$PROJECT_DIR$/assets_cvl/js/script.js" />
         <option value="$PROJECT_DIR$/protected/views/coldsupply/index.php" />
-        <option value="$PROJECT_DIR$/mailadvice.php" />
         <option value="$PROJECT_DIR$/protected/views/heating/index.php" />
+        <option value="$PROJECT_DIR$/assets_cvl/js/script.js" />
+        <option value="$PROJECT_DIR$/download.php" />
+        <option value="$PROJECT_DIR$/download3.php" />
+        <option value="$PROJECT_DIR$/download2.php" />
+        <option value="$PROJECT_DIR$/download4.php" />
+        <option value="$PROJECT_DIR$/mailadvice.php" />
       </list>
     </option>
   </component>
@@ -415,7 +433,14 @@
               <item name="backupcvl.zu" type="b2602c69:ProjectViewProjectNode" />
               <item name="backupcvl.zu" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets_cvl" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="backupcvl.zu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backupcvl.zu" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets_cvl" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="downl" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="backupcvl.zu" type="b2602c69:ProjectViewProjectNode" />
@@ -448,19 +473,19 @@
     <property name="SearchEverywhereHistoryKey" value="dropdown&#9;FILE&#9;file://C:/OSPanel/domains/cvl.zu/protected/extensions/bootstrap/widgets/BootDropdown.php&#10;drop&#9;null&#9;null&#10;подвал&#9;null&#9;null&#10;вверхнее меню&#9;null&#9;null&#10;parentcategory&#9;null&#9;null&#10;bootstrap&#9;FILE&#9;file://C:/OSPanel/domains/kairat.zu/protected/modules/timesafe/views/layouts/bootstrap.php" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\OSPanel\domains\cvlend.zu\assets_cvl\img\partnerslogo" />
-      <recent name="C:\OSPanel\domains\cvlend.zu\assets_cvl\img\downl" />
-      <recent name="C:\OSPanel\domains\cvlend.zu\assets_cvl\img" />
-      <recent name="C:\OSPanel\domains\cvlend.zu\assets\img" />
-      <recent name="C:\OSPanel\domains\cvlend.zu\upload\Employee\full" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\OSPanel\domains\backupcvl.zu" />
       <recent name="C:\OSPanel\domains\backupcvl.zu\assets_cvl\img" />
       <recent name="C:\OSPanel\domains\backupcvl.zu\assets_cvl\img\hover_img" />
       <recent name="C:\OSPanel\domains\backupcvl.zu\protected\views\layouts" />
       <recent name="C:\OSPanel\domains\thebestcvl\assets_cvl\img\hover_img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\cvlend.zu\assets_cvl\img\partnerslogo" />
+      <recent name="C:\OSPanel\domains\cvlend.zu\assets_cvl\img\downl" />
+      <recent name="C:\OSPanel\domains\cvlend.zu\assets_cvl\img" />
+      <recent name="C:\OSPanel\domains\cvlend.zu\assets\img" />
+      <recent name="C:\OSPanel\domains\cvlend.zu\upload\Employee\full" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -524,14 +549,7 @@
       <workItem from="1520927115770" duration="10018000" />
       <workItem from="1520998304166" duration="874000" />
       <workItem from="1521394996326" duration="10338000" />
-      <workItem from="1521431554301" duration="102000" />
-    </task>
-    <task id="LOCAL-00036" summary="текст">
-      <created>1520862223202</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1520862223202</updated>
+      <workItem from="1521431554301" duration="3978000" />
     </task>
     <task id="LOCAL-00037" summary="text">
       <created>1520862356284</created>
@@ -869,11 +887,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521415449822</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="feedback">
+      <created>1521431675295</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1521431675296</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="472089000" />
+    <option name="totallyTimeSpent" value="475965000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -888,7 +913,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15658094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="83" y="104" width="352" height="631" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18456884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="83" y="104" width="352" height="631" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -995,28 +1020,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/protected/modules/timesafe/views/user/_item.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/models/Employee.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/PortfolioController.php" />
-    <entry file="file://$PROJECT_DIR$/protected/modules/timesafe/views/portfolio/_itemTrash.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/timesafe/views/portfolio/_form.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
@@ -1288,14 +1291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets_cvl/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="84" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets_cvl/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1649">
@@ -1320,30 +1315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
-          <folding>
-            <marker date="1521415245135" expanded="true" signature="2601:2670" ph="..." />
-            <marker date="1521415245135" expanded="true" signature="7942:8011" ph="..." />
-            <marker date="1521415245135" expanded="true" signature="8590:8659" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mailadvice.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="60" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="60" />
-          <folding>
-            <marker date="1521415277116" expanded="true" signature="569:807" ph="..." />
-            <marker date="1521415277116" expanded="true" signature="579:662" ph="..." />
-            <marker date="1521415277116" expanded="true" signature="672:798" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/coldsupply/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -1365,6 +1336,70 @@
         <state relative-caret-position="341">
           <caret line="376" column="30" lean-forward="false" selection-start-line="376" selection-start-column="22" selection-end-line="376" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_cvl/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="74" column="84" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="62" column="56" lean-forward="false" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
+          <folding>
+            <marker date="1521435028909" expanded="true" signature="2512:2581" ph="..." />
+            <marker date="1521435028909" expanded="true" signature="7853:7922" ph="..." />
+            <marker date="1521435028909" expanded="true" signature="8501:8570" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mailadvice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <marker date="1521435936265" expanded="true" signature="569:807" ph="..." />
+            <marker date="1521435936265" expanded="true" signature="579:662" ph="..." />
+            <marker date="1521435936265" expanded="true" signature="672:798" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -51,16 +51,16 @@ $(document).ready(function() {
             },
             success: function(data) {
                 if(ftype =="Отопление" ){
-                    window.location.href = '/assets_cvl/img/downl/отопление.jpg';
+                    window.location.href = '../download.php';
                 }
                 if(ftype =="Водоснабжение" ){
-                    window.location.href = '/assets_cvl/img/downl/водоснабжение.jpg';
+                    window.location.href = '../download2.php';
                 }
                 if(ftype =="Вентиляция" ){
-                    window.location.href = '/assets_cvl/img/downl/вентиляция.jpg';
+                    window.location.href = '../download3.php';
                 }
                 if(ftype =="Холодоснабжение" ){
-                    window.location.href = '/assets_cvl/img/downl/холодоснабжение1.jpg';
+                    window.location.href = '../download4.php';
                 }
                 $('.before').animate({
                     opacity: '0',
