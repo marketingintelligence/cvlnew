@@ -72,15 +72,11 @@ $(document).ready(function() {
         });
     }
     $(".mobile-visible").on("click",function () {
-        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
-            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
-        })
+        $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
     });
 
     $(".w-download-advice .blick").on("click",function () {
-        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
-            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
-        })
+        $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
     });
 
     $('body').on("click","#downl-water",function () {

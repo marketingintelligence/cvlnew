@@ -2839,3 +2839,6 @@ path#middle {
     height: 35%;
 
 }
+.center.modal{position:fixed;display:none;background-image:url(../img/landing/opacity.png);background-repeat:repeat;z-index:99;width:83%;height:77%;padding:0% 1% 2% 1%;transform:translate(0);top:2%;left:7%;}
+.center{width:100%;position:relative;left:0;top:0;-webkit-transform:translate(0, 0);-moz-transform:translate(0, 0);-ms-transform:translate(0, 0);-o-transform:translate(0, 0);transform:translate(0, 0);background-color:black;box-shadow:none;z-index:1;height:20%;margin-top:12%;}
+.call-window-box2 input{font-size:2.9vw;}
