@@ -19,6 +19,11 @@ $(document).ready(function() {
              $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
          })
      });
+    $(".w-download-advice #water-advs").on("click",function () {
+        $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
+            $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+        })
+    });
     $('body').on("click","#downl-heating",function () {
         var name = $("#down_name").val();
         var email = $("#email").val();
@@ -76,6 +81,9 @@ $(document).ready(function() {
     });*/
 
     $(".w-download-advice #water-adv").on("click",function () {
+        $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
+    });
+    $(".c-downolad #cold-adv").on("click",function () {
         $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
     });
     $(".download-advice button").on("click",function () {

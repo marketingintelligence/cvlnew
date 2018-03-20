@@ -576,7 +576,7 @@
     <h2 class="mobile-none">Узнайте Как поддержать идеальное состояние  труб ?</h2>
     <img src="/assets_cvl/img/landing/water/icon2.png" class="mobile-visible m-icon-2">
     <h2 class="mobile-visible m-none"><b>Узнайте Как </b><br>поддержать<br> идеальное<br> состояние<br> <a class="bigg-2">труб?</a></h2>
-    <a <!--href="/assets_cvl/img/downl/водоснабжение.jpg" download--><button class="mobile-none blick"><img src="/assets_cvl/img/landing/advice.png"> Скачать советы</button></a>
+    <a <!--href="/assets_cvl/img/downl/водоснабжение.jpg" download--><button class="mobile-none blick" id="water-advs"><img src="/assets_cvl/img/landing/advice.png"> Скачать советы</button></a>
     <a <!--href="/assets_cvl/img/downl/водоснабжение.jpg" download--><button class="mobile-visible" id="water-adv"><span>Скачать</span></button></a>
 </div>
 

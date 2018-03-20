@@ -2,7 +2,7 @@
     <div class="call-window-box2">
         <div class="close-button"></div>
         <div class="before" id="before-advice">
-            <p>Узнайте, <br>как обеспечить оптимальный<br>температурный режим в помощении</p>
+            <p>Узнайте, <br>как обеспечить оптимальный<br>температурный режим в помещении</p>
             <input class="name" id="down_name" name="name" type="text" placeholder="Имя">
             <input class="email" id="email" name="email" type="text" placeholder="E-mail">
             <button  id="zakaz-btn">
@@ -502,7 +502,7 @@
     <div class="c-downolad">
         <div class="c-downolad-item">
             <h3>Как обеспечить <br>оптимальный <br>температурный<br> режим в помещении?</h3>
-            <a class="mobile-none2"><button class="revealOnScroll" data-animation="fadeInRight" data-timeout="500"><i></i>Узнать</button></a>
+            <a class="mobile-none2"><button id="cold-adv" class="revealOnScroll" data-animation="fadeInRight" data-timeout="500"><i></i>Узнать</button></a>
             <a class="mobile-visible"><button>Узнать</button></a>
         </div>
         <div class="c-downolad-item">
