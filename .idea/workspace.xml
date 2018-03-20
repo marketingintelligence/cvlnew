@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="71d850b7-ca4d-465c-850c-24eeff3f20f4" name="Default" comment="feedback">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets_cvl/js/script.js" afterPath="$PROJECT_DIR$/assets_cvl/js/script.js" />
       <change beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,11 +100,11 @@
             <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="238">
-                  <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+                  <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
                   <folding>
-                    <marker date="1521519855448" expanded="true" signature="2812:2881" ph="..." />
-                    <marker date="1521519855448" expanded="true" signature="8418:8487" ph="..." />
-                    <marker date="1521519855448" expanded="true" signature="9066:9135" ph="..." />
+                    <marker date="1521521602565" expanded="true" signature="2793:2862" ph="..." />
+                    <marker date="1521521602565" expanded="true" signature="8399:8468" ph="..." />
+                    <marker date="1521521602565" expanded="true" signature="9047:9116" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -556,14 +557,7 @@
       <workItem from="1521394996326" duration="10338000" />
       <workItem from="1521431554301" duration="10235000" />
       <workItem from="1521448457530" duration="4682000" />
-      <workItem from="1521518205267" duration="2344000" />
-    </task>
-    <task id="LOCAL-00048" summary="text">
-      <created>1520865145135</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1520865145135</updated>
+      <workItem from="1521518205267" duration="2876000" />
     </task>
     <task id="LOCAL-00049" summary="js send email">
       <created>1520906707058</created>
@@ -901,11 +895,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521520759229</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="feedback">
+      <created>1521521096651</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1521521096651</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="489248000" />
+    <option name="totallyTimeSpent" value="489780000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1399,11 +1400,11 @@
     <entry file="file://$PROJECT_DIR$/assets_cvl/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
-            <marker date="1521519855448" expanded="true" signature="2812:2881" ph="..." />
-            <marker date="1521519855448" expanded="true" signature="8418:8487" ph="..." />
-            <marker date="1521519855448" expanded="true" signature="9066:9135" ph="..." />
+            <marker date="1521521602565" expanded="true" signature="2793:2862" ph="..." />
+            <marker date="1521521602565" expanded="true" signature="8399:8468" ph="..." />
+            <marker date="1521521602565" expanded="true" signature="9047:9116" ph="..." />
           </folding>
         </state>
       </provider>

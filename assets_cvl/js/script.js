@@ -19,7 +19,7 @@ $(document).ready(function() {
              $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
          })
      });
-    $(".w-download-advice #water-advs").on("click",function () {
+    $("#water-advs").on("click",function () {
         $('#op').not('.modal').css('opacity', '0.5').promise().done(function() {
             $('.modal').fadeIn().removeClass('animated bounceOutUp').addClass('animated bounceInDown').css('opacity', '1');
         })
